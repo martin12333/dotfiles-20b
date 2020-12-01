@@ -1,7 +1,7 @@
 [user]
-	name = actes
-	email = actes@users.noreply.github.com
+	name = Martin Novy
+	email = martin12333@users.noreply.github.com
 [credential]
-	helper = cache --timeout=3200123
+	helper = cache --timeout=9200
 [gui]
 	diffopts = --histogram --word-diff=color
