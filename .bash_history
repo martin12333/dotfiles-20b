@@ -204,3 +204,104 @@ history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dot
 git commit -v -a -m readme
 git push 
 history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
+cd
+git ls-files
+git status
+git commit -v -a -m hist
+git push 
+cd -
+git ls-files
+cd ..
+git ls-files
+history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
+cd OneDrive/
+cd Dokumenty/
+ll
+git add --force --verbose   us1.klc 
+git commit -v -a -m klc
+git commit -v -a -m klc2
+git commit -v -a -m klc3
+cd a-msklc/
+git add --force --verbose   us1.klc 
+git commit -v -a -m klc0
+git commit -v -a -m klc11
+history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
+git add --force --verbose   polprog1.klc 
+git commit -v -a -m klc-pol2
+history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
+pwd
+d:
+cd /d
+ls
+cd umarti/
+ll
+cd bliss-book-gh-pages
+git init
+git remote add origin https://github.com/martin12333/bliss-book.git
+git remote add origin https://github.com/martin12333/bliss-book.git
+git remote add upstream https://github.com/owencm/bliss-book.git
+git fetch origin gh-pages
+git status 
+git checkout gh-pages 
+git status 
+history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
+ll
+lasdkjlkadjakjds
+history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
+git fetch upstream  gh-pages
+git status 
+head -n 20 index.html 
+git pull upstream  gh-pages
+head -n 20 index.html 
+head -n 25 index.html 
+git push --dry-run 
+history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
+git push --dry-run 
+git push 
+history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
+cd
+cd d
+cd /d
+cd umarti/
+cd 5000\ FILES\ SOME\ GIT\ GUI\ FAIL\ ZSH/bliss-book-gh-pages
+git list --all
+git branch --all
+git log
+git log|less
+git log --help
+cd
+pwd
+history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
+cd /d
+ll
+cd GIT-bk04/
+ll
+git clone  https://github.com/martin12333/newbie-attempts--dotfiles-at-s18.git
+history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
+cd OneDrive/
+git commit -v -a -m hist
+git push
+git commit -v -a -m hist
+git push
+pwd
+find /c/Users/marti -size +300m -ls
+find /c/Users/marti -size +300M -ls
+find /c -size +300M -ls | tee ~/find1
+history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
+cd OneDrive/
+git add --force --verbose   .vscode/settings.json 
+#git commit -v -a -m bkup && #git push
+history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
+history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i push
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i push
+fhfhg
+ls
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i push
+git commit -v -a -m bkup 
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i push
+cd
+pwd
+#git commit -v -a -m bkup && git push -u
+#git commit -v -a -m bkup && git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i push
