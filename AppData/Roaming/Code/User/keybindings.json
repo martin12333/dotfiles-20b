@@ -1,0 +1,27 @@
+// Place your key bindings in this file to override the defaults
+[
+
+    {
+        "key": "f8",
+          "command": "workbench.action.terminal.runSelectedText",
+            "when": "editorTextFocus "
+    },
+
+
+
+    //{ "key": "y",           "command": "type", "args": { "text": "z" }, "when": "editorTextFocus" },
+    // ano "when": "editorTextFocus " jinak trapeniu pri hledani!
+    { "key": "3",           "command": "type", "args": { "text": "#" }, "when": "editorTextFocus " },
+    { "key": "4",           "command": "type", "args": { "text": "$" }, "when": "editorTextFocus " },
+    { "key": "9",           "command": "type", "args": { "text": "(" }, "when": "editorTextFocus " },
+    { "key": "0",           "command": "type", "args": { "text": "_" }, "when": "editorTextFocus " },
+    { "key": "]",           "command": "type", "args": { "text": "{" }, "when": "editorTextFocus " },
+    { "key": ";",           "command": "type", "args": { "text": ":" }, "when": "editorTextFocus " },
+    { "key": "\\",           "command": "type", "args": { "text": "\"" }, "when": "editorTextFocus " },
+
+    { "key": "numpad_decimal",           "command": "type", "args": { "text": ";" }, "when": "editorTextFocus " },
+
+
+
+
+]

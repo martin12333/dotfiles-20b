@@ -305,3 +305,58 @@ pwd
 #git commit -v -a -m bkup && git push -u
 #git commit -v -a -m bkup && git push -u
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i push
+git commit -v -a -m bkup && git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i push
+echo fdsfddg
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i push
+git ls-files
+cd OneDrive/
+git ls-files
+cd AI/
+git ls-files
+ll
+cd
+cd OneDrive/
+find . -name '*.sh' -ls
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i push
+cd /c/Program\ Files/Racket/
+find . -name '*.rkt*' |wc
+find . -name '*.rkt*' | grep -o -E '[^.]+$'
+find . -name '*.rkt*' | grep -o -E '[^.]+$'|sort -u
+find . -name '*.rk*' | grep -o -E '[^.]+$'|sort -u
+find . -name '*.rk*' | grep -o -E '[^.]+$'|sort |uniq -c
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i push
+find . -name '*.rktd' -ls
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i push
+find . -name '*.rkt' -ls
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i push
+find . -name '*.rkt' |wc
+man cat
+echo `find . -name '*.rkt' `
+echo `find . -name '*.rkt' `|wc
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i push
+ls `find . -name '*.rkt' `|wc
+echo `find . -name '*.rkt' ` >/d/umarti/1
+ll /d/umarti/1
+ls `find . -name '*.rkt' ` >/d/umarti/1
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i push
+ll /d/umarti/1
+ls -l -- `find . -name '*.rkt' ` >/d/umarti/1
+ll /d/umarti/1
+cat --help
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep -i 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history | grep
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+cat -- `find . -name '*.rkt' ` >/d/umarti/1
+ll /d/umarti/1
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+cd
+cd OneDrive/
+git commit -v -a -m bkup && git push -u
+cd
+cd AppData/Roaming/Code/User/
+ll
+git add --force --verbose   keybindings.json settings.json 
+echo git commit -v -a -m warning-crlf
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 

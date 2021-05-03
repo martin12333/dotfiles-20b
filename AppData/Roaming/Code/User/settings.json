@@ -1,0 +1,19 @@
+{
+
+    //warning: CRLF will be replaced by LF in AppData/Roaming/Code/User/settings.json.
+
+
+    "files.eol": "\n",
+    "files.trimTrailingWhitespace": true,
+	"terminal.integrated.rightClickBehavior": "default",
+
+    "window.zoomLevel": 1,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "files.autoSave": "afterDelay",
+    "git.path": "C:/Program Files/Git/cmd/git.exe",
+    "files.associations": {
+        "*.w": "scheme",
+        "*.sbcl_history": "clojure"
+    },
+    /////////"git.enableSmartCommit": true
+}
