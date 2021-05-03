@@ -1,13 +1,16 @@
 // Place your key bindings in this file to override the defaults
 [
 
+    // if bugfix, !!!!!!!!!! update https://www.reddit.com/r/whitespaceLisp/comments/mu5gms/an_ideal_keyboard_layout_for_programming/gv3udve/
+
+    // uz jsem to pridal do git
+
     {
         "key": "f8",
           "command": "workbench.action.terminal.runSelectedText",
             "when": "editorTextFocus"
     },
 
-    // if bugfix, update https://www.reddit.com/r/whitespaceLisp/comments/mu5gms/an_ideal_keyboard_layout_for_programming/gv3udve/
 
     //{ "key": "y",           "command": "type", "args": { "text": "z" }, "when": "editorTextFocus" },
     // EDIT bugfix: the part "when": "editorTextFocus" is really needed, otherwise awful behavior in ctrl-f
