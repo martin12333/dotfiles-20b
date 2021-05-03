@@ -360,3 +360,9 @@ ll
 git add --force --verbose   keybindings.json settings.json 
 echo git commit -v -a -m warning-crlf
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+git ls-files
+cd
+git ls-files
+git commit -v -a -m warning-crlf
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
