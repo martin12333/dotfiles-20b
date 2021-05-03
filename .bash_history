@@ -366,3 +366,6 @@ git ls-files
 git commit -v -a -m warning-crlf
 git push -u
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+git commit -v -a -m warning-editortextfocus
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 

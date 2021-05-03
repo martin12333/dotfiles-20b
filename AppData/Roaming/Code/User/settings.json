@@ -2,6 +2,7 @@
 
     //warning: CRLF will be replaced by LF in AppData/Roaming/Code/User/settings.json.
 
+    // uz jsem to pridal do git
 
     "files.eol": "\n",
     "files.trimTrailingWhitespace": true,
