@@ -8,13 +8,26 @@
     "files.trimTrailingWhitespace": true,
 	"terminal.integrated.rightClickBehavior": "default",
 
-    "window.zoomLevel": 1,
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "window.zoomLevel": 2,
     "files.autoSave": "afterDelay",
     "git.path": "C:/Program Files/Git/cmd/git.exe",
     "files.associations": {
         "*.w": "scheme",
         "*.sbcl_history": "clojure"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.cursorBlinking": "solid",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.profiles.windows": {
+        "C:\\WINDOWS\\System32\\wsl.exe (migrated)": {
+            "path": "C:\\WINDOWS\\System32\\wsl.exe",
+            "args": []
+        }
     },
     /////////"git.enableSmartCommit": true
 }

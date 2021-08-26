@@ -371,3 +371,48 @@ git push -u
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
 git commit -v -a -m pridal-do-git
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+git commit -v -a -m pridal-do-git
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+cd OneDrive/a,complangs-215/
+git clone  https://github.com/martin12333/hyperpolyglot-CSV.git
+git clone  https://github.com/martin12333/hyperpolyglot-CSV.git
+git clone  https://github.com/martin12333/hyperpolyglot-CSV.git
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+echo strrange ... git clone 2 spaces failed ???? git clone 1 space OK ???
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+cd hyperpolyglot-CSV
+ll
+git add hyperpolyglot-CSV\ -\ lisp.csv 
+git commit -v -a -m Wisp
+git push
+git commit -v -a -m Wisp-updated
+git push
+cd
+cd OneDrive/rosettaCode/
+git clone https://github.com/martin12333/rosettacode.git
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+cd rosettacode/
+git add wisp-rosetta.wiki 
+git commit -v -a -m Wisp
+git push
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+cd
+cd OneDrive/a,complangs-215-hyperpoly/hyperpolyglot-CSV/
+git add hyperpolyglot-CSV\ -\ scripting-paste.csv 
+git commit -v -a -m scripting
+git push
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+cd OneDrive/hpmor/
+git clone https://github.com/martin12333/hpmor-wiki.git
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+history 
+cd OneDrive/
+git commit -v -a -m warning-chsh-radeji-nesudo
+git push 
+which bash
+cmd
+git add wsl-dotfiles/.bash_history 
+git add -f -vvv wsl-dotfiles/.bash_history 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 

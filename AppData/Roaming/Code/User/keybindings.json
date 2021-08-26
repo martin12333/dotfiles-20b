@@ -15,12 +15,14 @@
     //{ "key": "y",           "command": "type", "args": { "text": "z" }, "when": "editorTextFocus" },
     // EDIT bugfix: the part "when": "editorTextFocus" is really needed, otherwise awful behavior in ctrl-f
     // ano "when": "editorTextFocus " jinak pokazi sor pri zadavani  hledani po ^f ... a v teminalu stejne doesn't work !!
-    { "key": "3",           "command": "type", "args": { "text": "#" }, "when": "editorTextFocus" },
-    { "key": "4",           "command": "type", "args": { "text": "$" }, "when": "editorTextFocus" },
-    { "key": "9",           "command": "type", "args": { "text": "(" }, "when": "editorTextFocus" },
-    { "key": "0",           "command": "type", "args": { "text": "_" }, "when": "editorTextFocus" },
-    { "key": "]",           "command": "type", "args": { "text": "{" }, "when": "editorTextFocus" },
-    { "key": ";",           "command": "type", "args": { "text": ":" }, "when": "editorTextFocus" },
+
+    //// $e#tina czeshtina čeština ů§"¨"¨
+    //// { "key": "3",           "command": "type", "args": { "text": "#" }, "when": "editorTextFocus" },
+    ////{ "key": "4",           "command": "type", "args": { "text": "$" }, "when": "editorTextFocus" },
+    ////{ "key": "9",           "command": "type", "args": { "text": "(" }, "when": "editorTextFocus" },
+    ////{ "key": "0",           "command": "type", "args": { "text": "_" }, "when": "editorTextFocus" },
+    ////{ "key": "]",           "command": "type", "args": { "text": "{" }, "when": "editorTextFocus" },
+    ////{ "key": ";",           "command": "type", "args": { "text": ":" }, "when": "editorTextFocus" },
     { "key": "\\",           "command": "type", "args": { "text": "\"" }, "when": "editorTextFocus" },
 
     { "key": "numpad_decimal",           "command": "type", "args": { "text": ";" }, "when": "editorTextFocus" },
