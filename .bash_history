@@ -416,3 +416,47 @@ cmd
 git add wsl-dotfiles/.bash_history 
 git add -f -vvv wsl-dotfiles/.bash_history 
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+ls /c
+ls /wsl
+ls /wsl$
+ls /proc/
+ls /proc/cygdrive/
+mount
+mount
+ls /w
+ls /w/home/
+ls /w/home/martin/
+ls /w/home/martin/.node_repl_history 
+ls -l /w/home/martin/.node_repl_history 
+cd /w/home/martin/
+ls
+ls .git
+history |grep git
+history |grep git|grep -v -E 'comm|push'
+history |grep git|grep -v -E -i 'onedr|comm|push'
+git status 
+git add -f -vvv .node_repl_history  
+history |grep git|grep -v -E -i 'onedr|comm|push'
+git remote 
+git checkout -b wsl
+git commit -v -a -m 'wsl node'
+git push -u origin wsl
+cd
+ls
+git add -f -vvv .node_repl_history  
+git commit -v -a -m 'node warniing crlf'
+git push -u 
+cd OneDrive/
+git commit -v -a -m bkup
+git push -u 
+cd /w/home/martin/
+git push -u 
+git push -u origin wsl
+git push -u origin wsl
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+git ls-files
+git add -f -vvv AppData/Local/Microsoft/PowerToys/settings.json 
+git add -f -vvv AppData/Local/Microsoft/PowerToys/Keyboard\ Manager/default.json 
+git add -f -vvv AppData/Local/Microsoft/PowerToys/Keyboard\ Manager/settings.json 
+git ls-files
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 

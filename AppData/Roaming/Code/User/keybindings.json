@@ -23,9 +23,13 @@
     ////{ "key": "0",           "command": "type", "args": { "text": "_" }, "when": "editorTextFocus" },
     ////{ "key": "]",           "command": "type", "args": { "text": "{" }, "when": "editorTextFocus" },
     ////{ "key": ";",           "command": "type", "args": { "text": ":" }, "when": "editorTextFocus" },
-    { "key": "\\",           "command": "type", "args": { "text": "\"" }, "when": "editorTextFocus" },
 
-    { "key": "numpad_decimal",           "command": "type", "args": { "text": ";" }, "when": "editorTextFocus" },
+
+    
+    // powertoys 219.4
+    //{ "key": "\\",           "command": "type", "args": { "text": "\"" }, "when": "editorTextFocus" },
+
+    //{ "key": "numpad_decimal",           "command": "type", "args": { "text": ";" }, "when": "editorTextFocus" },
 
 
 
