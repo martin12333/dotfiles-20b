@@ -460,3 +460,37 @@ git add -f -vvv AppData/Local/Microsoft/PowerToys/Keyboard\ Manager/default.json
 git add -f -vvv AppData/Local/Microsoft/PowerToys/Keyboard\ Manager/settings.json 
 git ls-files
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+git commit -v -a -m bkup-keyb
+git push -u 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+while read -N 1 x ;do echo "$x"|od -x ; done
+while read -N 1 x ;do echo "$x"|od -x ; done
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+cd OneDrive/
+git clone https://github.com/martin12333/us-qwerty-programmer-shiftless.git
+cd us-qwerty-programmer-shiftless/
+git add -f -vvv 2021-09-05\ \(1\).png shiftless-bracketpairs-leftarrow.ahk 
+git commit -v -a -m bkup
+git push -u 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+cd /
+cd c
+ls */MSKLC
+ls */*/MSKLC
+ls -d */*/MSKLC
+ls -d */*/*/MSKLC
+cd ..
+git commit -v -a -m bkup
+git push -u 
+cd docker-214/root
+git init
+git checkout -b ubudock
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+git remote add origin https://github.com/martin12333/dotfiles-20b.git
+git add --dry-run *.ipynb
+git add --dry-run *
+ls .*
+git add -f -vvv .bash_history .bashrc .config/mc/ini .gitconfig .inputrc .profile jup.bash_history 
+git commit -v -a -m bkup
+git push -u origin ubudock
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 

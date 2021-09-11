@@ -19,6 +19,7 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[javascript]": {
+    
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "editor.cursorBlinking": "solid",
@@ -29,5 +30,8 @@
             "args": []
         }
     },
+    "javascript.suggest.completeFunctionCalls": true,
+    "python.autoComplete.addBrackets": true,
+    "powershell.promptToUpdatePowerShell": false,
     /////////"git.enableSmartCommit": true
 }
