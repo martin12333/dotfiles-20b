@@ -19,7 +19,7 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "[javascript]": {
-    
+
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "editor.cursorBlinking": "solid",
@@ -33,5 +33,52 @@
     "javascript.suggest.completeFunctionCalls": true,
     "python.autoComplete.addBrackets": true,
     "powershell.promptToUpdatePowerShell": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.olean": true,
+        "**/node_modules": true
+    },
+    "spellright.documentTypes": [
+
+        "markdown",
+        "latex",
+        //"plaintext"
+    ],
+    "spellright.ignoreFiles": [
+
+        "**/.gitignore",
+        "**/.spellignore"
+    ],
+    "spellright.ignoreRegExps": [
+
+    ],
+    "spellright.ignoreRegExpsByClass": {
+
+    },
+    "spellright.language": [
+
+    ],
+    "spellright.languageContext": {
+
+    },
+    "spellright.recheckOnSave": false,
+    "markdown.extension.toc.updateOnSave": false,
+    "markdown.extension.toc.omittedFromToc": {
+
+    },
+    "[markdown]": {
+
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions":  {
+            "other": true,
+            "comments": true, // false,
+            "strings": true, //false
+        },
+    },
     /////////"git.enableSmartCommit": true
 }

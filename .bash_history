@@ -1,170 +1,3 @@
-pwd
-du
-which du
-set
-env
-pwd
-ls /
-ls /d
-cat $CONFIG_SITE 
-ls /bin
-df
-df -a
-fish
-history 
-ls
-ls -l
-history >>1.txt
-ls -l
-history >>1.txt
-history >1.sh
-history >1.sh
-history 
-du
-du -m
-du -m >du-m.txt
-cd /d/conda/
-history >1.sh
-du -m >du-m.txt
-cd
-sort -n du-m.txt >du-m-mar.sort
-cd /d/conda/
-sort -n du-m.txt >du-m-conda.sort
-cd
-history -a
-ll
-ls -la
-pwd
-set
-env
-git
-git --version 
-env
-exit
-set
-ls
-pwd
-ls
-echo *
-pwd
-cd OneDrive/
-git init --bare 
-git
-git init --bare 
-ls /mnt
-ls /
-ls -l /
-cd /d/git-NONBARE/
-ll
-git init --bare repo.git
-git init --bare barerepo.git
-history -a
-history -a; history
-history -a; history
-cd marti-onedrive/
-git remote add 
-git remote add onedrive /d/git-NONBARE/barerepo.git/
-git remote remove  onedrive 
-git remote 
-git remote add onedrive0 /d/git-NONBARE/barerepo.git/
-history -a; history
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/2021-03.bash_history
-pwd
-git push –u onedrive0 main
-git push -u onedrive0 main
-cd
-cd OneDrive/
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/2021-03.bash_history
-git init --separate-git-dir /d/GIT-bk04/marti-onedrive.git
-git remote add origin https://github.com/martin12333/marti-onedrive
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/2021-03.bash_history
-git pull --dry-run origin main
-git pull -v origin main
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/2021-03.bash_history
-git checkignore
-git check-ignore
-git check-ignore -v
-git check-ignore -v README.md
-git check-ignore -v desktop.ini
-git check-ignore -v wsl-dotfiles/.zsh_history
-git check-ignore -v wsl-dotfiles/21-02
-git check-ignore -v wsl-dotfiles/21-02
-git check-ignore -v wsl-dotfiles/.zsh_history
-git check-ignore -v wsl-dotfiles/.zsh_history
-git check-ignore -v wsl-dotfiles/.zsh_history
-git check-ignore -v wsl-dotfiles/.zsh_history
-git check-ignore -v wsl-dotfiles/.zsh_history
-git check-ignore -v wsl-dotfiles/.zsh_history
-git check-ignore -v wsl-dotfiles/.zsh_history
-git check-ignore -v wsl-dotfiles/.zsh_history
-git check-ignore  wsl-dotfiles/.zsh_history
-git check-ignore  wsl-dotfiles/.zsh_history
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/2021-03.bash_history
-env|grep -i hist
-env|grep -i his
-env|grep -i hi
-env|grep -i h
-env
-cd
-ll
-ls -l .*
-ls -l .b*
-env|grep -i ba
-pwd
-bash -v
-bash -v 2>2
-bash -v >1
-bash -v >1 2>2
-bash -i -v >1 2>2
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/2021-03.bash_history
-env|grep -i pat
-bash --help
-help
-shopt
-shopt | grep -i hist
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/2021-03.bash_history
-config --get-all core.autocrlf --system
-git config --get-all core.autocrlf --system
-git config --get-all core.autocrlf --global
-git config --get-all core.autocrlf 
-git config --get-all --system core.autocrlf 
-git config --get-all core.autocrlf --system
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/2021-03.bash_history
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-git config --global core.autocrlf input
-git config --get-all core.autocrlf 
-git config --list 
-git config --list --show-origin 
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-git config --get-all --global core.autocrlf 
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-git config --list --show-origin 
-git config --list --show-origin |grep -i cre
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-pwd
-git init --separate-git-dir  OneDrive/mylen-mar.git
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-git checkout -b mylen-mar
-dfgdggd
-git remote add origin https://github.com/martin12333/dotfiles-20b.git
-dgfdgfd
-cd OneDrive/AI/
-git init --separate-git-dir /d/GIT-bk04/AI.git
-git remote add origin https://github.com/martin12333/AI-attempts
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-git pull -v origin main
-cd ..
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-exit
-cd OneDrive/
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-git init --separate-git-dir /d/GIT-bk04/marti-onedrive.git
-git init --separate-git-dir /d/GIT-bk04/marti-onedrive.git
-git remote add origin https://github.com/martin12333/marti-onedrive
-git pull -v origin main
-cd /d/GIT-OTHER/
 git clone  https://github.com/martin12333/marti-onedrive
 ll marti-onedrive/
 history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
@@ -494,3 +327,174 @@ git add -f -vvv .bash_history .bashrc .config/mc/ini .gitconfig .inputrc .profil
 git commit -v -a -m bkup
 git push -u origin ubudock
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+pwd
+du -m|sort -n
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du
+du -m >du-m.txt
+ls -l AppData/Roaming/Zoom/
+ls -l AppData/Roaming/Zoom/bin/
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du
+sort -n du-m.txt >du-m-mar.sort
+grep -i tmp du-m-mar.sort 
+grep -i temp du-m-mar.sort 
+grep -i temp du-m-mar.sort |less
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du
+/e
+cd /e
+ls
+cd A,SMAZAT-V-NOUZI/
+ls
+ll
+cat carat-context-factors-percom.csv |tr A-Z a-z|head
+cat carat-context-factors-percom.csv |tr A-Z a-z|cut -f 2-4 -d ';'|head
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du
+hgfgfhfhgfhhfh
+ls
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep e
+cd /e/A,SMAZAT-V-NOUZI/
+cat carat-context-factors-percom.csv |tr A-Z a-z|cut -f 2-4 -d ';'|head
+cat carat-context-factors-percom.csv |tr A-Z a-z|cut -f 2-4 -d ';' >f234-carat.csv
+ll
+tail f234-carat.csv 
+grep -vi good f234-carat.csv|wc
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep e
+grep -vi good f234-carat.csv|wc
+grep -vi good f234-carat.csv >nongood-carat.csv
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep e
+cut --h
+cut -f 1 -d ';' f234-carat.csv |sort|uniq -c
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep e
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+grep --h -vi good f234-carat.csv 
+grep --count '[^a-zA-Z0-9.;]' f234-carat.csv 
+grep --count '[^a-zA-Z0-9.; ]' f234-carat.csv 
+grep --count '[^-a-zA-Z0-9.; ]' f234-carat.csv 
+grep --count '[^-a-zA-Z0-9.;]' f234-carat.csv 
+grep --count '[^-good0-9.;]' f234-carat.csv 
+grep --count '[^-good0-9.; ]' f234-carat.csv 
+grep --count '[^good0-9.; ]' f234-carat.csv 
+grep --count '[^good0-9.;]' f234-carat.csv 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+tail f234-carat.csv 
+cut -f 3 -d ';' f234-carat.csv |cut -c 1|sort|uniq -c
+cut -f 3 -d ';' f234-carat.csv |cut -c 1-2 |sort|uniq -c
+cut -f 3 -d ';' f234-carat.csv |cut -c 1-3 |sort|uniq -c
+cut -f 3 -d ';' f234-carat.csv |cut -c 1-4 |sort|uniq -c
+cut -f 3 -d ';' f234-carat.csv |cut -c 1-4 |sort|uniq -c|less
+cut -f 3 -d ';' f234-carat.csv |cut -c 1-5 |sort|uniq -c|less
+cut -f 3 -d ';' f234-carat.csv |cut -c 1-5 |sort|uniq -c|wc
+cut -f 3 -d ';' f234-carat.csv |sort|uniq -c|wc
+cut -f 3 -d ';' f234-carat.csv|grep -v '[.]' |sort|uniq -c|wc
+cut -f 3 -d ';' f234-carat.csv|grep -v '[.]' |sort|uniq -c|less
+cut -f 3 -d ';' f234-carat.csv|grep -v '[.]' |sort|uniq -c|less
+cut -f 3 -d ';' f234-carat.csv |sort|uniq -c|less
+cut -f 3 -d ';' f234-carat.csv|grep -v '[.]' |sort|uniq -c|less
+cut -f 3 -d ';' f234-carat.csv |sort|uniq -c|less
+cut -f 3 -d ';' f234-carat.csv|grep -E '[^\d{3}]' |sort|uniq -c|less
+cut -f 3 -d ';' f234-carat.csv|grep -E '^[\d{3}]' |sort|uniq -c|less
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cut -f 3 -d ';' f234-carat.csv|grep -E '^\d{3}' |sort|uniq -c|less
+cut -f 3 -d ';' f234-carat.csv|grep -E '^\d{3}' |sort|uniq -c|wc
+cut -f 3 -d ';' f234-carat.csv|grep -E '^(\d){3}' |sort|uniq -c|wc
+cut -f 3 -d ';' f234-carat.csv|grep -E '^(\d)' |sort|uniq -c|wc
+cut -f 3 -d ';' f234-carat.csv|grep -E '^[0-9]' |sort|uniq -c|wc
+cut -f 3 -d ';' f234-carat.csv|grep -E -v '^[0-9]' |sort|uniq -c|wc
+cut -f 3 -d ';' f234-carat.csv|grep -E -v '^[0-9]{3}' |sort|uniq -c|wc
+cut -f 3 -d ';' f234-carat.csv|grep -E -v '^[0-9]{3}' |sort|uniq -c|less
+cut -f 3 -d ';' f234-carat.csv|grep -E  '^[0-9]{3}' |sort|uniq -c|less
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cut -f 3 -d ';' f234-carat.csv|grep -E -v '^[0-9]{3}' |sort|uniq -c|less
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cut -f 3 -d ';' f234-carat.csv|grep -E -v '^[0-9]{3}' |sort|uniq -c|less
+cd /d/A,SMAZAT-V-NOUZI/
+cut -f 3 -d ';' f234-carat.csv |sort|uniq -c >f3-of-f234.csv
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cut -f 1 -d ';' f234-carat.csv |sort|uniq -c >f1-of-f234.csv
+cut -f 2 -d ';' f234-carat.csv |sort|uniq -c >f2-of-f234.csv
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+od -c 1  f3-of-f234.csv |sort|uniq -c 
+grep ';od [-]' fish-history.txt 
+grep -f ';od [-]' fish-history.txt 
+grep -f '[;]od [-]' fish-history.txt 
+grep -F '[;]od [-]' fish-history.txt 
+grep -F 'od [-]' fish-history.txt 
+grep -F 'od ' fish-history.txt 
+grep  ' od [-]' fish-history.txt 
+od --output-duplicates  --format=c --width=1  --address-radix=n opc |sort|uniq -c
+od --output-duplicates  --format=c --width=1  --address-radix=n f234-carat.csv |sort|uniq -c
+od --output-duplicates  --format=c --width=1  --address-radix=n f234-carat.csv |sort|uniq -c >od-c &
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cut -f 2 -d ';' f234-carat.csv |cut -c 1 |sort|uniq -c
+cut -f 2 -d ';' f234-carat.csv |cut -c 1-2 |sort|uniq -c
+cut -f 2 -d ';' f234-carat.csv |cut -f 1 -d '.' |sort|uniq -c
+cut -f 3 -d ';' f234-carat.csv |cut -c 1-3 |sort|uniq -c
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cut -f 3 -d ';' f234-carat.csv |cut -c 1-3 |sort|uniq -c
+paste --h
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+ll
+cut -f 1 -d ';' f234-carat.csv >1
+cut -f 2 -d ';' f234-carat.csv |cut -f 1 -d '.' >2
+cut -f 3 -d ';' f234-carat.csv |cut -c 1-3 >3
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+paste -d ',' 1 2 3
+paste -d ',' 1 2 3 >4
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+sort -u 4 >5
+ll
+cp -i 5 f234-carat-uniq.csv
+echo batteryHealth,batteryTemperature,batteryVoltage
+echo batteryHealth,batteryTemperature,batteryVoltage >nongood-carat-sch.csv 
+tr ';' ',' <nongood-carat.csv >>nongood-carat-sch.csv 
+head -n 25 nongood-carat-sch.csv 
+ll
+sort -u nongood-carat.csv |wc 
+sort -u f234-carat.csv |wc 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+shuf --h
+shuf --help
+shuf -n 60000 -o file f234-carat.csv 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+echo batteryHealth,batteryTemperature,batteryVoltage >shuf-sch.csv 
+tr ';' ',' <file >>shuf-sch.csv 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+multiline multiline
+multiline
+echo <<prase
+
+multiline
+multiline
+
+prase
+
+cat <<prase
+
+multiline
+multiline
+
+prase
+
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep clon
+cd OneDrive/
+git clone 
+git clone https://github.com/martin12333/antidepresiva-slovnik-2021.git
+dir
+cd /
+ls
+cd c
+cd /h
+ll
+cd /h/version-pack-data/community/
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep clon
+pwd
+find . -type f -size +100M -ls
+find . -type f -size +100M 
+find . -type f -size +100M 2>/c/u/find100M-tee-221s-2
+find . -type f -size +100M -ls 2>/c/u/find100M-tee-221s-2
+cd /h/version-pack-data/community/
+find . -type f -size +100M -ls 2>/c/u/find100M-tee-221s-2
