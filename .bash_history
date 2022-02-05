@@ -1,110 +1,3 @@
-git clone  https://github.com/martin12333/marti-onedrive
-ll marti-onedrive/
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-echo git checkout -b main2
-cd -
-git checkout -b main2
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-echo '----------------------'
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-cd OneDrive/AI/
-git add --dry-run *.ipynb
-git add  *.ipynb
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-git commit -v -a -m init
-ls -la
-ls -laR
-ls -laR >ls-laR.txt
-git add  ls-laR.txt 
-git commit -v -a -m ls
-git push –u origin main
-git push 
-pwd
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-ls d:
-ls D:
-ls D:/
-ls D:\\
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-cd ../ps-mylen-mar/
-ll
-git add  ConsoleHost_history.txt 
-git add --force --verbose   ConsoleHost_history.txt 
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-git commit -v -a -m hist
-git push 
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-git commit -v -a -m readme
-git push 
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-cd
-git ls-files
-git status
-git commit -v -a -m hist
-git push 
-cd -
-git ls-files
-cd ..
-git ls-files
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-cd OneDrive/
-cd Dokumenty/
-ll
-git add --force --verbose   us1.klc 
-git commit -v -a -m klc
-git commit -v -a -m klc2
-git commit -v -a -m klc3
-cd a-msklc/
-git add --force --verbose   us1.klc 
-git commit -v -a -m klc0
-git commit -v -a -m klc11
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-git add --force --verbose   polprog1.klc 
-git commit -v -a -m klc-pol2
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-pwd
-d:
-cd /d
-ls
-cd umarti/
-ll
-cd bliss-book-gh-pages
-git init
-git remote add origin https://github.com/martin12333/bliss-book.git
-git remote add origin https://github.com/martin12333/bliss-book.git
-git remote add upstream https://github.com/owencm/bliss-book.git
-git fetch origin gh-pages
-git status 
-git checkout gh-pages 
-git status 
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-ll
-lasdkjlkadjakjds
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-git fetch upstream  gh-pages
-git status 
-head -n 20 index.html 
-git pull upstream  gh-pages
-head -n 20 index.html 
-head -n 25 index.html 
-git push --dry-run 
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-git push --dry-run 
-git push 
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
-cd
-cd d
-cd /d
-cd umarti/
-cd 5000\ FILES\ SOME\ GIT\ GUI\ FAIL\ ZSH/bliss-book-gh-pages
-git list --all
-git branch --all
-git log
-git log|less
-git log --help
-cd
-pwd
-history -a; history;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history
 cd /d
 ll
 cd GIT-bk04/
@@ -498,3 +391,110 @@ find . -type f -size +100M 2>/c/u/find100M-tee-221s-2
 find . -type f -size +100M -ls 2>/c/u/find100M-tee-221s-2
 cd /h/version-pack-data/community/
 find . -type f -size +100M -ls 2>/c/u/find100M-tee-221s-2
+git commit -v -a -m bkup
+git push -u 
+cd OneDrive/
+ll
+git commit -v -a -m bkup
+git push -u 
+cd docker-214/
+ll
+git clone https://github.com/martin12333/docker-214.git
+ll
+git init
+git remote add origin https://github.com/martin12333/docker-214.git
+git pull -v
+git branch --help
+git branch -v
+git branch --list 
+git branch --list  --all
+git branch --list  --all -vv
+echo "# docker-214" >> README.md
+git add --dry-run *.md
+git add --dry-run -v *.md
+git add  -v *.md
+git commit -v -a -m bkup
+git branch -M main
+git branch --list  --all -vv
+git pull -v
+git pull -v origin main
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep clon
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep . #clon
+git init
+git remote add origin https://github.com/martin12333/docker-214.git
+git pull -v origin main
+git pull -v origin main
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep . #clon
+ll
+git add  -v  --dry-run  ijulia/*
+git add  -v  --dry-run  ijulia
+git add  -v  --dry-run  ijulia
+git add  -v  --dry-run  ijulia
+git add  -v   ijulia
+git commit -v -a -m bkup
+git push -u 
+git push -u origin main
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep . #clon
+cd /d
+cd GIT-bk04/
+ll
+git clone https://github.com/martin12333/helmhurts
+cd helmhurts/
+git add  -v   INSTALL.jl 
+git add  -v   figs/pltest.png 
+git add  -v -f  figs/pltest.png 
+git add  -v examples/
+git info
+git ls
+git ls-files
+git add  -v examples
+git add  -v examples/*
+git add  -v -f examples/*
+git add  -v -f resources/*
+git commit -v -a -m tweaks
+git push -u 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep . #clon
+cd
+#git commit -v -a -m bkup
+cd OneDrive/
+git commit -v -a -m bkup
+git push -u 
+cd docker-214/
+git add  -v  --dry-run  jup-notebook-mn
+git add  -v    jup-notebook-mn
+git commit -v -a -m bkup
+git push -u 
+#git add  -v  --dry-run  jup-notebook-mn
+cd homedockw/
+git add  -v  --dry-run  .bash_logout .bashrc .profile 
+git add  -v    .bash_logout .bashrc .profile 
+git commit -v -a -m 'skel dotfiles 3'
+git commit -v -a -m 'wsl dotfiles 1'
+git push -u 
+git commit -v -a -m 'jovy dotfiles 1'
+git push -u 
+git add  -v  --dry-run  jovyan
+git add  -v  --dry-run  jo.tar 
+git add  -vv   jo.tar 
+cd ..
+git add  -v  --dry-run  wsl-jup-notebook-mn
+git add  -v   wsl-jup-notebook-mn
+git commit -v -a -m bkup
+git push -u 
+git add  -v   homedockw/jovyan/.bash_history 
+git commit -v -a -m bkup
+git push -u 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep . #clon
+git commit -v -a -m bkup
+git push -u 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep . #clon
+cd ~/OneDrive/docker-214/
+git commit -v -a -m bkup
+git push -u 
+cd ..
+git commit -v -a -m bkup
+git push -u 
+cd ~/OneDrive/docker-214/
+git commit -v -a -m bkup-vsc
+git push -u 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep . #clon
