@@ -601,3 +601,108 @@ grep -i vhdx /d/umarti/du-ak--c-d-renamed.txt |less
 grep -i vhd /d/umarti/du-ak--c-d-renamed.txt |less
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
 grep -i vhd /d/umarti/du-ak--c-d-renamed.txt |less
+git add --dry-run -vv -f  .
+git add --dry-run -vv   .
+git add --dry-run -vv   .
+git add --dry-run -vv   .
+git add --dry-run -vv   .
+git add --dry-run -vv   ini 
+git add  -vv   ini 
+cd ..
+cd ..
+git add --dry-run -vv   .
+git add --dry-run -vv   *
+git add  -vv   ini 
+git add --dry-run -vv   .*his*
+git add  -vv   .*his*
+git add --dry-run -vv   .
+git add --dry-run -vv   .*rc
+git add  -vv   .*rc
+git add --dry-run -vv   .
+git ls-files
+git add  -vv   grub.cfg wincmd.ini 
+git ls-files
+git commit -vvv -a -m hyperv
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+git commit -vvv -a -m gitign
+git push -u
+cd OneDrive/
+git status
+git add -vv -f  .gitignore 
+cd ..
+git ls-files
+cd -
+git status
+git commit -vvv -a -m gitign
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+cd OneDrive/
+cd hyperv-ubu-serv-20/
+ll
+git status
+git show
+git add -vv -f  
+ll
+git add -vv -f  casper-new1.tibx 
+git commit -vvv -a -m casper-new
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+cd ..
+cd ~/OneDrive/mylen-ila-git-mirmir
+cd OneDrive/
+cd 223c7/
+git add --dry-run -vv   .
+git add  -vv   .
+#git commit -vvv -a -m 223c7
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+git commit -vvv -a -m 223c7
+git push -u
+#git commit -vvv -a -m 223c7
+git status
+git show
+git commit -vvv -a -m bkup33
+cd ~/OneDrive/
+git add -vv -f  .gitignore 
+git commit -vvv -a -m bkup
+git push -u
+cd Acronis-SystemReport/
+git add -vv -f  .gitignore 
+git ls-files
+git commit -vvv -a -m gitign
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+cd ~/OneDrive/
+cd Acronis-SystemReport/
+git commit -vvv -a -m gitign
+git push -u
+cd -
+git commit -vvv -a -m gitign
+git show
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+cd ~/OneDrive/
+git commit -vvv -a -m wmic
+git show
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+cd ~/OneDrive/hyperv-ubu-serv-20/
+ll
+git add -vv -f  casper-new.zip 
+git commit -vvv -a -m bkup
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+cd /d/umarti/down21/extract-vmlinux/
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+dd bs=1 count=8998912 if=ldiag/linux.efi of=vmlinuz skip=48128
+#dd bs=256 count=35152 if=ldiag/linux.efi of=vmlinuz skip=188
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+#dd bs=256 count=35152 if=ldiag/linux.efi of=vmlinuz skip=188
+dd bs=256 count=35152 if=ldiag/linux.efi of=vmlinuz skip=188
+dd bs=256 count=150180 if=ldiag/linux.efi of=ldiag/initrd skip=35340
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+cd /d/umarti/down21/extract-vmlinux/
+cd acrolnx/
+ll
+cpio -tv <ramdisk_merged64.dat.cpio 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a

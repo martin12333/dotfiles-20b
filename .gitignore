@@ -4,6 +4,10 @@
 */
 
 
+OLD/
+**/OLD/
+
+
 !OneDrive/
 
 !OneDrive/*/
@@ -71,6 +75,3 @@ ntuser.*
 NTUSER.*
 .Rproj.user
 
-
-OLD/
-#**/OLD/

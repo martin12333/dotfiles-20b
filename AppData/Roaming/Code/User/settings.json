@@ -13,7 +13,8 @@
     "git.path": "C:/Program Files/Git/cmd/git.exe",
     "files.associations": {
         "*.w": "scheme",
-        "*.sbcl_history": "clojure"
+        "*.sbcl_history": "clojure",
+        "*.opt2": "shellscript"
     },
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
