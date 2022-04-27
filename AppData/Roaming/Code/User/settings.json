@@ -1,20 +1,34 @@
 {
 
-    //warning: CRLF will be replaced by LF in AppData/Roaming/Code/User/settings.json.
+    // nejdriv nejvic nebezpecne
 
+    //"terminal.integrated.rightClickBehavior": "default",
+    "terminal.integrated.rightClickBehavior": "selectWord",
+    // 224
+    // Controls how terminal reacts to right click.
+	//  - default: Show the context menu.
+	//  - copyPaste: Copy when there is a selection, otherwise paste.
+	//  - paste: Paste on right click.
+	//  - selectWord: Select the word under the cursor and show the context menu.
+	//  - nothing: Do nothing and pass event to terminal.
+
+
+    //warning: CRLF will be replaced by LF in AppData/Roaming/Code/User/settings.json.
     // uz jsem to pridal do git
 
     "files.eol": "\n",
     "files.trimTrailingWhitespace": true,
-	"terminal.integrated.rightClickBehavior": "default",
 
-    "window.zoomLevel": 2,
+    "window.zoomLevel": 1,
     "files.autoSave": "afterDelay",
     "git.path": "C:/Program Files/Git/cmd/git.exe",
     "files.associations": {
         "*.w": "scheme",
         "*.sbcl_history": "clojure",
-        "*.opt2": "shellscript"
+        "*.opt2": "shellscript",
+        ".zsh_history": "shellscript",
+        "*.zsh_history": "shellscript",
+        "*.hist": "shellscript"
     },
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -61,9 +75,12 @@
     "spellright.ignoreRegExpsByClass": {
 
     },
-    "spellright.language": [
 
+    "spellright.language": [
+        "en",
+        "cs",
     ],
+
     "spellright.languageContext": {
 
     },
@@ -72,6 +89,15 @@
     "markdown.extension.toc.omittedFromToc": {
 
     },
+
+    "editor.wordWrap": "on",
+
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true, // false,
+        "strings": true, //false
+    },
+
     "[markdown]": {
 
         "editor.wordWrap": "on",
@@ -82,5 +108,7 @@
         },
     },
     "python.analysis.completeFunctionParens": true,
+    "githubPullRequests.createOnPublishBranch": "never",
+    "editor.unicodeHighlight.invisibleCharacters": false,
     /////////"git.enableSmartCommit": true
 }
