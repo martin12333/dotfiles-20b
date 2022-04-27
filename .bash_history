@@ -706,3 +706,20 @@ cd acrolnx/
 ll
 cpio -tv <ramdisk_merged64.dat.cpio 
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+git show
+git status 
+git commit -vvv -a -m opt2
+git show
+git push -u
+cd OneDrive/
+#git commit -vvv -a -m opt2
+git commit -vvv -a -m bk
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+grep -i replace for\ x\ of\ this._modules2\ console.log 
+grep -i replace for\ x\ of\ this._modules2\ console.log >replac
+cd
+cd /d/umarti/down21/
+zgrep -i activetext vscode-main.zip 
+zipgrep -i activetext vscode-main.zip 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
