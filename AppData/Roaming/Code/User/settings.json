@@ -115,5 +115,8 @@
 
     "bashIde.globPattern": "**/*@(.sh|.inc|.bash|.command|.hist)",
     "bashIde.highlightParsingErrors": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
     /////////"git.enableSmartCommit": true
 }

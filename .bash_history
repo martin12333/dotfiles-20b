@@ -775,3 +775,6 @@ git add -vv -f `cygpath C:\Users\marti\AppData\Roaming\Code\User\snippets\javasc
 git add -vv -f 'C:\Users\marti\AppData\Roaming\Code\User\snippets\javascript.json'
 git ls-files
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
+git commit -vvv -a -m bkup-snpp
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
