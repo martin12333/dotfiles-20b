@@ -56,7 +56,8 @@
         "**/.DS_Store": true,
         "**/Thumbs.db": true,
         "**/*.olean": true,
-        "**/node_modules": true
+        "**/node_modules": true,
+        "out": false
     },
     "spellright.documentTypes": [
 
@@ -110,5 +111,9 @@
     "python.analysis.completeFunctionParens": true,
     "githubPullRequests.createOnPublishBranch": "never",
     "editor.unicodeHighlight.invisibleCharacters": false,
+    // ??
+
+    "bashIde.globPattern": "**/*@(.sh|.inc|.bash|.command|.hist)",
+    "bashIde.highlightParsingErrors": true,
     /////////"git.enableSmartCommit": true
 }
