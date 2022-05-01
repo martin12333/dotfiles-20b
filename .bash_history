@@ -761,3 +761,17 @@ git commit -vvv -a -m bkup
 git push -u
 git push -u origin main
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
+git ls-files
+git status 
+git show
+git ls-files
+git commit -vvv -a -m bkup
+git ls-files
+git push -u
+git ls-files
+git add -vv -f C:\Users\marti\AppData\Roaming\Code\User\snippets\javascript.json
+git add -vv -f `cygpath C:\Users\marti\AppData\Roaming\Code\User\snippets\javascript.json`
+#git add -vv -f `cygpath 'C:\Users\marti\AppData\Roaming\Code\User\snippets\javascript.json'`
+git add -vv -f 'C:\Users\marti\AppData\Roaming\Code\User\snippets\javascript.json'
+git ls-files
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
