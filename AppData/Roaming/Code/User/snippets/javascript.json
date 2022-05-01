@@ -35,4 +35,13 @@
 	  },
 
 
+	"string.if-empty": {
+		"prefix": "control: if string is empty",
+		"body": [
+			"if (!${1:str}) {",
+			"\t$TM_SELECTED_TEXT$0", "}"
+		],
+	  },
+
+
 }
