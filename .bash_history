@@ -723,3 +723,41 @@ cd /d/umarti/down21/
 zgrep -i activetext vscode-main.zip 
 zipgrep -i activetext vscode-main.zip 
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+git push -u
+git ls-files
+git commit -vvv -a -m bk
+git push -u
+ls \c
+ls \\c
+cygpath
+set
+echo $PATH
+echo $file
+set
+git clone https://github.com/martin12333/scriptbox.git
+git show
+cd scriptbox
+git show
+git status 
+git commit -vvv -a -m 'add mycmd01'
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
+git commit -vvv -a -m 'move scriptdir'
+git push -u
+cd
+cd OneDrive/
+git commit -vvv -a -m bk
+git push -u
+cd scriptbox-scripts--all/
+git init 
+git remote add origin https://github.com/martin12333/scriptbox-scripts--all.git
+git pull -v
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep init
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
+git pull -v origin main
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
+git add -vv -f oldgithub/attempt1.js 
+git commit -vvv -a -m bkup
+git push -u
+git push -u origin main
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
