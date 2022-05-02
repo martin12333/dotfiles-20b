@@ -785,3 +785,13 @@ git commit -vvv -a -m bkup-snipp
 git push -u
 git clone https://github.com/yousefvand/shellman.git
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
+ls -l /
+ls -l /c
+git ls-files
+cat README.md 
+cat .history 
+git commit -vvv -a -m bkup-snipp--junction
+git show
+git commit -vvv -a -m bkup-snipp--junction
+git show
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
