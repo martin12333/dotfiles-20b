@@ -778,3 +778,10 @@ history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.ba
 git commit -vvv -a -m bkup-snpp
 git push -u
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
+pwd
+git clone https://github.com/martin12333/vscode-texty.git
+git commit -vvv -a -m bkup-snipp
+git commit -vvv -a -m bkup-snipp
+git push -u
+git clone https://github.com/yousefvand/shellman.git
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
