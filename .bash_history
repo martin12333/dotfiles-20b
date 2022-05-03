@@ -835,3 +835,35 @@ cp  --archive --backup=numbered  --one-file-system  --parents --strip-trailing-s
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
 cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=. --verbose `cygpath.exe -f utf8-LF-tc-clip-vsc.txt  `
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
+git add -vv -f utf8-LF-tc-clip-vsc.txt 
+git commit -vvv -a -m bku
+git push -u
+cd
+git commit -vvv -a -m bku
+git show
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
+cp --h|less
+tar --help
+tar --help|less
+tar --ver
+tar --versi
+tar --help|less
+cp --h|less
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=~/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  `
+pwd
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory ~/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  `
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory ~/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -v
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory ~/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
+echo $home
+echo $HOME
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=/d --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=/d/umarti/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=/d/umarti/c --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=/d/umarti/c --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=/d/umarti/c --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=/d/umarti/c --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
