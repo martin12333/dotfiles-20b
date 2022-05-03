@@ -472,27 +472,27 @@ cd docker-214/
 git ls-files
 cd
 cd OneDrive/
-git add -vv docker-214/homedockw/jovyan/.bash_history 
-git add -f -vv docker-214/homedockw/jovyan/.bash_history 
-git add -f -vv docker-214/wsl-jup-notebook-mn22/docker-compose.yml 
+git add -vv docker-214/homedockw/jovyan/.bash_history
+git add -f -vv docker-214/homedockw/jovyan/.bash_history
+git add -f -vv docker-214/wsl-jup-notebook-mn22/docker-compose.yml
 git ls-files
 git commit -vvv -a -m bkup
-git add -f -vv docker-214/wsl-jup-notebook-mn22/docker-compose.yml 
-git add  -vv docker-214/wsl-jup-notebook-mn22/docker-compose.yml 
-git add  -vv -f docker-214/wsl-jup-notebook-mn22/docker-compose.yml 
+git add -f -vv docker-214/wsl-jup-notebook-mn22/docker-compose.yml
+git add  -vv docker-214/wsl-jup-notebook-mn22/docker-compose.yml
+git add  -vv -f docker-214/wsl-jup-notebook-mn22/docker-compose.yml
 git commit -vvv -a -m bkup
 cd OneDrive/
-git add  -vv -f docker-214/wsl-jup-notebook-mn22/docker-compose.yml 
-git add -f -vv docker-214/homedockw/jovyan/.bash_history 
+git add  -vv -f docker-214/wsl-jup-notebook-mn22/docker-compose.yml
+git add -f -vv docker-214/homedockw/jovyan/.bash_history
 git ls-files
-git add -f -vv docker-214/homedockw/jovyan/.bash_history 
-git add  -vv -f docker-214/wsl-jup-notebook-mn22/docker-compose.yml 
+git add -f -vv docker-214/homedockw/jovyan/.bash_history
+git add  -vv -f docker-214/wsl-jup-notebook-mn22/docker-compose.yml
 git ls-files
 git commit -vvv -a -m zarem-dock.git
 git push -u
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep gpg #clon
 cd OneDrive/
-git add  -vv -f mila/CHost_history.txt 
+git add  -vv -f mila/CHost_history.txt
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep gpg #clon
 git commit -vvv -a -m bkup
 git push -u
@@ -508,7 +508,7 @@ history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.ba
 git remote -vvv add dee  /d/Users/milanlocal/AAA-mylen-ila-git-mirror/
 git pull -vv dee main
 git pull -vv dee main
-du 
+du
 du |sort -n
 du -a |sort -n
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
@@ -596,7 +596,7 @@ history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.ba
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep grep
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
-grep -i vhdx /d/umarti/du-ak--c-d-renamed.txt 
+grep -i vhdx /d/umarti/du-ak--c-d-renamed.txt
 grep -i vhdx /d/umarti/du-ak--c-d-renamed.txt |less
 grep -i vhd /d/umarti/du-ak--c-d-renamed.txt |less
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
@@ -606,13 +606,13 @@ git add --dry-run -vv   .
 git add --dry-run -vv   .
 git add --dry-run -vv   .
 git add --dry-run -vv   .
-git add --dry-run -vv   ini 
-git add  -vv   ini 
+git add --dry-run -vv   ini
+git add  -vv   ini
 cd ..
 cd ..
 git add --dry-run -vv   .
 git add --dry-run -vv   *
-git add  -vv   ini 
+git add  -vv   ini
 git add --dry-run -vv   .*his*
 git add  -vv   .*his*
 git add --dry-run -vv   .
@@ -620,7 +620,7 @@ git add --dry-run -vv   .*rc
 git add  -vv   .*rc
 git add --dry-run -vv   .
 git ls-files
-git add  -vv   grub.cfg wincmd.ini 
+git add  -vv   grub.cfg wincmd.ini
 git ls-files
 git commit -vvv -a -m hyperv
 git push -u
@@ -629,7 +629,7 @@ git commit -vvv -a -m gitign
 git push -u
 cd OneDrive/
 git status
-git add -vv -f  .gitignore 
+git add -vv -f  .gitignore
 cd ..
 git ls-files
 cd -
@@ -642,9 +642,9 @@ cd hyperv-ubu-serv-20/
 ll
 git status
 git show
-git add -vv -f  
+git add -vv -f
 ll
-git add -vv -f  casper-new1.tibx 
+git add -vv -f  casper-new1.tibx
 git commit -vvv -a -m casper-new
 git push -u
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
@@ -663,11 +663,11 @@ git status
 git show
 git commit -vvv -a -m bkup33
 cd ~/OneDrive/
-git add -vv -f  .gitignore 
+git add -vv -f  .gitignore
 git commit -vvv -a -m bkup
 git push -u
 cd Acronis-SystemReport/
-git add -vv -f  .gitignore 
+git add -vv -f  .gitignore
 git ls-files
 git commit -vvv -a -m gitign
 git push -u
@@ -688,7 +688,7 @@ git push -u
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
 cd ~/OneDrive/hyperv-ubu-serv-20/
 ll
-git add -vv -f  casper-new.zip 
+git add -vv -f  casper-new.zip
 git commit -vvv -a -m bkup
 git push -u
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
@@ -704,10 +704,10 @@ history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.ba
 cd /d/umarti/down21/extract-vmlinux/
 cd acrolnx/
 ll
-cpio -tv <ramdisk_merged64.dat.cpio 
+cpio -tv <ramdisk_merged64.dat.cpio
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
 git show
-git status 
+git status
 git commit -vvv -a -m opt2
 git show
 git push -u
@@ -716,12 +716,12 @@ cd OneDrive/
 git commit -vvv -a -m bk
 git push -u
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
-grep -i replace for\ x\ of\ this._modules2\ console.log 
+grep -i replace for\ x\ of\ this._modules2\ console.log
 grep -i replace for\ x\ of\ this._modules2\ console.log >replac
 cd
 cd /d/umarti/down21/
-zgrep -i activetext vscode-main.zip 
-zipgrep -i activetext vscode-main.zip 
+zgrep -i activetext vscode-main.zip
+zipgrep -i activetext vscode-main.zip
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
 git push -u
 git ls-files
@@ -738,7 +738,7 @@ git clone https://github.com/martin12333/scriptbox.git
 git show
 cd scriptbox
 git show
-git status 
+git status
 git commit -vvv -a -m 'add mycmd01'
 git push -u
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep du-a
@@ -749,20 +749,20 @@ cd OneDrive/
 git commit -vvv -a -m bk
 git push -u
 cd scriptbox-scripts--all/
-git init 
+git init
 git remote add origin https://github.com/martin12333/scriptbox-scripts--all.git
 git pull -v
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep init
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
 git pull -v origin main
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
-git add -vv -f oldgithub/attempt1.js 
+git add -vv -f oldgithub/attempt1.js
 git commit -vvv -a -m bkup
 git push -u
 git push -u origin main
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
 git ls-files
-git status 
+git status
 git show
 git ls-files
 git commit -vvv -a -m bkup
@@ -788,10 +788,50 @@ history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.ba
 ls -l /
 ls -l /c
 git ls-files
-cat README.md 
-cat .history 
+cat README.md
+cat .history
 git commit -vvv -a -m bkup-snipp--junction
 git show
 git commit -vvv -a -m bkup-snipp--junction
 git show
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
+git commit -vvv -a -m bkup-snipp--junction
+git show
+git commit -vvv -a -m bkup-snipp--junction
+git show
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
+tar -h
+tar --help
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
+tar -c -v    -T wslutf8.txt     --interactive -f a.tar
+tar -c -v    -T wslutf8.txt     --interactive -f a.tar
+cd /d/umarti/tar-exe/
+ll
+tar -c -v    -T wslutf8.txt     --interactive -f a.tar
+tar -c -v    -T utf8-LF-tc-clip-vsc.txt     --interactive -f a.tar
+tar -c -v    -T utf8-LF-tc-clip-vsc.txt     --interactive -f a.tar
+tar -c -v    -T utf8-LF-tc-clip-vsc.txt     --interactive -f a.tar
+cygpath --he
+cygpath -f utf8-LF-tc-clip-vsc.txt
+cygpath -f utf8-LF-tc-clip-vsc.txt >a.cygpa
+tar -c -v   --files-from a.cygpa     --interactive -f a.tar
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
+cygpath.exe -f utf8-LF-tc-clip-vsc.txt|  tar -c -v   --files-from -     --interactive -f a.tar
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
+cp --h
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 init
+cp  --archive --backup=numbered --interactive --one-file-system  --parents --strip-trailing-slashes --target-directory=. --verbose `cat wslutf8.txt   `
+cp --h|less
+cp  --archive --backup=numbered --interactive --one-file-system  --parents --strip-trailing-slashes --target-directory=. --verbose `cat wslutf8.txt   `
+cd OneDrive/tar-exe/
+ll
+cp  --archive --backup=numbered --interactive --one-file-system  --parents --strip-trailing-slashes --target-directory=/d --verbose `cygpath.exe -f wslutf8.txt   `
+cp  --archive --backup=numbered --interactive --one-file-system  --parents --strip-trailing-slashes --target-directory=/d --verbose `cygpath.exe -f utf8-LF-tc-clip-vsc.txt  `
+cp  --archive --backup=numbered --interactive --one-file-system  --parents --strip-trailing-slashes --target-directory=/d/umarti/ --verbose `cygpath.exe -f utf8-LF-tc-clip-vsc.txt  `
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
+cp  --archive --backup=numbered --interactive --one-file-system  --parents --strip-trailing-slashes --target-directory=. --verbose `cygpath.exe -f utf8-LF-tc-clip-vsc.txt  `
+cp  --archive --backup=numbered --interactive --one-file-system  --parents --strip-trailing-slashes --target-directory=. --verbose `cygpath.exe -f utf8-LF-tc-clip-vsc.txt  `
+cp  --archive --backup=numbered  --one-file-system  --parents --strip-trailing-slashes --target-directory=. --verbose `cygpath.exe -f utf8-LF-tc-clip-vsc.txt  `
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=. --verbose `cygpath.exe -f utf8-LF-tc-clip-vsc.txt  `
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
