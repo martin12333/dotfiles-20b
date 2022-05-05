@@ -867,3 +867,50 @@ cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-d
 cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=/d/umarti/c --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
 cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
+git commit -vvv -a -m bku
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
+set -x
+#run -it \
+ # -p 8888:8888    \
+  #--name JUP \
+docker                               --help   
+#  jupyter/minimal-notebook \
+# --NotebookApp.dlkgmdflgkdg=1111111111111   
+# -d  jupyter/base-notebook start-notebook.sh
+set -x
+#run -it \
+ # -p 8888:8888    \
+  #--name JUP \
+#docker \
+cp                               --help   
+#  jupyter/minimal-notebook \
+# --NotebookApp.dlkgmdflgkdg=1111111111111
+# -d  jupyter/base-notebook start-notebook.sh
+set -x
+#run -it \
+ # -p 8888:8888    \
+  #--name JUP \
+#docker \
+cp                               --help   
+#  jupyter/minimal-notebook \
+# --NotebookApp.dlkgmdflgkdg=1111111111111
+# -d  jupyter/base-notebook start-notebook.sh
+echo press enter
+read x
+set -x
+#run -it \
+ # -p 8888:8888    \
+  #--name JUP \
+#docker \
+cp                               --help   
+#  jupyter/minimal-notebook \
+# --NotebookApp.dlkgmdflgkdg=1111111111111
+# -d  jupyter/base-notebook start-notebook.sh
+echo press enter
+read x
+set -x
+echo '.sh'
+while  true; do    date;    sleep 10s;  done
+env
+echo snad mi ten skript uz nepise do his
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
