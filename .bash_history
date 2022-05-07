@@ -914,3 +914,78 @@ while  true; do    date;    sleep 10s;  done
 env
 echo snad mi ten skript uz nepise do his
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
+echo $PS1
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
+echo $PS1
+set
+set|less
+alias 
+git
+git status
+git info
+set -x
+ls
+set +x
+set |grep __git
+set |grep __git|less
+set |grep __git|grep dir
+set |grep __git|grep dir|less
+set |grep __git|grep dir
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
+set |grep wine
+set |grep -i wine
+git --exec-path
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
+cd OneDrive/
+cd OneDrive/
+cd OneDrive/
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
+git rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+git rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+git rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+cd ..
+git rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+cd /d/GIT-bk04/marti-onedrive.git/
+git rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail
+bash --h
+bash --help
+bash -c "help set"
+bash -c help set
+bash -c "help set"
+bash -c help set
+select x in *
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail
+help set
+bash -c help set
+bash -c "help set"
+bash -c help set
+bash -c help 
+help
+bash -c help 
+bash -c help set
+bash -c ps -ef
+bash -c ps 
+bash -c 'ps -ef'
+ps
+ps -ef
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep 'bash -c'
+set|grep -i path
+set|grep -i path|less
+set|grep -i originalpath|less
+set|grep -i original_path|less
+set|grep -i original_path|tr ';' ' '
+set|grep -i original_path|tr ';' '\n'
+set|grep -i original_path|tr ':' '\n'
+set|grep -i original_path|tr ':' '\n'|grep -i git
+ls `set|grep -i original_path|tr ':' '\n'|grep -i git`
+ll `set|grep -i original_path|tr ':' '\n'|grep -i git`
+echo `set|grep -i original_path|tr ':' '\n'|grep -i git`/*
+cat `set|grep -i original_path|tr ':' '\n'|grep -i git`/*
+set|grep -i sou
+set|grep -i sourc
+set|grep -i original_path|tr ':' '\n'|grep -i sour
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
