@@ -4,7 +4,7 @@
 	process = git-lfs filter-process
 	required = true
 [user]
-	name = Martin Novy
+	name = Martin Milan
 	email = martin12333@users.noreply.github.com
 
 [core]
