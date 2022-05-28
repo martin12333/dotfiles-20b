@@ -1072,3 +1072,333 @@ git commit -vvv -a -m mklink
 git push -u
 git diigo
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+cd
+git commit -vvv -a -m bk8
+git push -u
+git diigo
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+diigo
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+#diigo
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+pwd
+file /bin/sh
+file /bin/git
+file /cmd/git
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+recode-sr-latin.exe --h
+locale.exe --h
+iconv.exe --h
+locale.exe 
+file 1
+file 2
+cat 1
+cat 1|grep DIR
+cat 1|grep DIR|cut -c 25,
+cat 1|grep DIR|cut -c 25-
+cat 1|grep DIR|cut -c 35-
+cat 1|grep DIR|cut -c 37-
+cat 1|grep DIR|cut -c 37-|sort -u
+cat 1|grep DIR|cut -c 37-|sort -u|wc
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+uco
+uconv
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+cat dir-ad|grep DIR|cut -c 37-|sort -u|wc
+cat dir-ad|grep DIR|cut -c 37-|sort |uniq -c|sort -n
+cat dir-ad|grep DIR|cut -c 37-|grep 'f\r'
+cat dir-ad|grep DIR|cut -c 37-|grep -E 'f\r'
+cat dir-ad|grep DIR|cut -c 37-|grep -EP 'f\r'
+cat dir-ad|grep DIR|cut -c 37-|grep -P 'f\r'
+cat dir-ad|grep DIR|cut -c 37-|grep -P 'f\r'|less
+cat dir-ad|grep DIR|cut -c 37-|grep -P 'f\r'|sort|uniq -c
+cat dir-ad|grep DIR|cut -c 37-|grep -P 'f\r'|sort|uniq -c|sort -r
+cat dir-ad|grep DIR|cut -c 37-|grep -P 'f\r'|sort|uniq -c|sort -n
+cat dir-ad|cut -c 37-|grep -P 'f\r'|sort|uniq -c|sort -n
+cat dir-ad|cut -c 37-|grep -P 'f\r' --context 3 |less
+cat dir-ad|cut -c 37-|grep -P '^f\r' --context 3 |less
+cat dir-ad|cut -c 37-|grep -P '^lib\r' --context 3 |less
+cat dir-ad|cut -c 37-|grep -P 'dir\r' --context 3 |less
+cat dir-ad|cut -c 37-|grep -P 'x-dir\r' --context 3 |less
+cat dir-ad|cut -c 37-|grep -P 'bin\r' --context 3 |less
+cat dir-ad|cut -c 37-|grep -P 'emp\r' --context 3 |less
+cat dir-ad|cut -c 37-|grep -P 'aths\r' --context 3 |less
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+cat dir-ad|grep DIR|cut -c 37-|sort |uniq -c|sort -n
+cat dir-ad|cut -c 37-|grep -P 'Data\r' --context 3 |less
+cat dir-ad|cut -c 37-|grep -P 'ppData\r' --context 3 |less
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+cat dir-c-d.txt|cut -c 37-|sort |uniq -c|sort -n
+cat dir-c-d.txt|grep -i loda
+cat dir-c-d.txt|cut -c 37-|grep -i loda
+cat dir-c-d.txt|cut -c 37-|grep -i loda|sort|uniq -c
+cat dir-c-d.txt|cut -c 37-|grep -i loda|sort|uniq -c|sort -n
+cat dir-ad dir-addd >dir-ad-c-d
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+cat dir-ad-c-d|cut -c 37-|grep -i loda|sort|uniq -c|sort -n
+cat dir-ad-c-d|cut -c 37-|sort|uniq -c|sort -n|less
+cat dir-ad-c-d|cut -c 37-|sort|uniq -c|sort -n|grep -i git
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+cat dir-ad-c-d|cut -c 37-|sort|uniq -c|sort -n|less
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+cat dir-b|grep -P 'ps1\r'|sort|uniq -c|sort -n
+cat dir-b|grep -P -o '\w*.ps1\r'|sort|uniq -c|sort -n
+cat dir-b|grep -P -o '.ps1\r'|sort|uniq -c|sort -n
+cat dir-b|grep -P -o '.cmd\r'|sort|uniq -c|sort -n
+cat dir-b|grep -P -o '.bat\r'|sort|uniq -c|sort -n
+cat dir-b|grep -P -o '.sh\r'|sort|uniq -c|sort -n
+cat dir-b|grep -P -o '..sh\r'|sort|uniq -c|sort -n
+cat dir-b|grep -P -o '...sh\r'|sort|uniq -c|sort -n
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+cat dir-b|grep -P -o '.ps1\r'|sort|uniq -c|sort -n
+cat dir-b|grep -P -o '.cmd\r'|sort|uniq -c|sort -n
+cat dir-b|grep -P -o '.bat\r'|sort|uniq -c|sort -n
+cat dir-b|grep -P -o '.sh\r'|sort|uniq -c|sort -n
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+cat dir-c-d.txt|cut -c 37-|grep -i loda|sort|uniq -c|sort -n
+cat dir-c-d.txt|cut -c 37-|sort|uniq -c|sort -n
+cat dir-c-d.txt|cut -c 37-|sort|uniq -c|sort -n|grep -i dll
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+cat dir-b|grep -P 'github\r'|less
+cat dir-b|grep -P '[.]git\r'|less
+cat dir-b|grep -P '[.]aaa\r'|less
+cat dir-b|grep -P 'aaa\r'|less
+cat dir-b|grep -P 'w-w64\r'|less
+cat dir-b|grep -P 'w_w64\r'|less
+cat dir-b|grep -P 'w.w64\r'|less
+cat dir-b|grep -i mingw|grep -P 'w64\r'|less
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+cat dir-b|grep -P -o '.ps1\r'|less
+cat dir-b|grep -P  '.ps1\r'|less
+cat dir-b|grep -P  '[.]sh\r'|less
+cat dir-b|grep -P  '[.]cmd\r'|less
+cat dir-b|grep -P  '[.]bat\r'|less
+cat dir-b|grep -P  '[.]bat\r'|less
+cat dir-b|grep -P  '[.]cmd\r'|less
+cat dir-b|grep -P  '[.]sh\r'|less
+cat dir-b|grep -P  '.ps1\r'|less
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+pwsh
+cat env
+cat env2
+cat >env
+env
+./env
+file 17
+file 17
+file 17
+file 17c
+file 15
+file 15c
+file 11
+du -ak OneDrive/tar-exe/
+ls -lR OneDrive/tar-exe/
+ls -lR OneDrive/tar-exe/
+ls -lR OneDrive/tar-exe/c/Users/marti/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine/
+ls -lR OneDrive/tar-exe/c/Users/marti/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine/Visual~1.txt 
+cat OneDrive/tar-exe/c/Users/marti/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine/Visual~1.txt 
+file c15
+file 15
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+echo $PATH
+ll bin
+which --all git
+which --all bash
+which --all git.exe
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+echo $PATH|tr ':' '\n'
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+echo $PATH|tr ':' '\n'
+ls /usr/lo
+ls /usr/local
+echo $PATH|tr ':' '\n'
+ls /bin/
+ls /usr/bin
+echo $PATH|tr ':' '\n'
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+echo $PATH|tr ':' '\n'
+set|grep -i bashr
+set|grep -i bash
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep git
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep 'git '
+cd OneDrive/dictionary-search-on-word-selection/
+git init
+git remote add origin https://github.com/martin12333/dictionary-search-on-word-selection.git
+git pull
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep 'git '|grep pul
+git pull -v origin main
+git clone https://github.com/martin12333/dictionary-search-on-word-selection.git
+git ls-files
+git add -vv -f *
+git commit -vvv -a -m bkup
+git pull -v -u -f origin main
+git push -v -u -f origin main
+git commit -vvv -a -m 'if(x)'
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cd OneDrive/
+git commit -vvv -a -m bkup
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+git clone https://github.com/martin12333/hyperpolyglot
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cd OneDrive/dictionary-search-on-word-selection/
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cd OneDrive/a,complangs-215-hyperpoly/Hyperpolyglot-CSV
+ll
+git add -vv -f Hyperpolyglot-CSV\ -\ shell.csv 
+git ls-files
+ls -la
+git commit -vvv -a -m bkup
+git push -u
+git pull -v -u  origin main
+git pull -v   origin main
+git commit -vvv -a -m bkup
+git push -u
+git add -vv -f Hyperpolyglot-CSV\ -\ scripting1\,2.csv 
+git commit -vvv -a -m bkup
+git push -u
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cygpath --help
+cygpath '\\wsl$\'
+ls '\\wsl$\'
+ls `cygpath '\\wsl$\' `
+ls //wsl$/U*
+ls //wsl$/Ubuntu-20.04
+ls `cygpath '\\wsl$\Ubuntu-20.04' `
+cygpath '\\wsl$\Ubuntu-20.04' 
+mount
+ls //
+ls '//'
+ls -la //wsl$/Ubuntu-20.04
+ls -la //wsl\$/Ubuntu-20.04/home/martin/.*gu*
+ls -la //wsl\$/Ubuntu-20.04/home/martin/.*hi*
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+ls //wsl$/Ubuntu-20.04
+ls //wsl$/Ubuntu-20.0*
+ls //wsl\$/Ubuntu-20.0*
+ls //wsl\$/
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+ls -1 //wsl\$/Ubuntu-20.04/home/martin/.*hi*
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep cp
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
+ls -1 //wsl\$/Ubuntu-20.04/home/martin/.*hi*
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
+cygpath '//wsl$\Ubuntu-20.04' 
+cygpath '//wsl$/Ubuntu-20.04' 
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
+cd //wsl$/Ubuntu-20.04
+ls
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/tar-exe/ --update -vv home/martin/.bash_history 
+cd //wsl$/
+cd //wsl.local/Ubuntu-20.04
+cd //wsl.localhost/Ubuntu-20.04
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
+cd //wsl.localhost/
+cd /w
+ls
+ls -1 /w/home/martin/.*hi*
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep c
+cd /d/umarti/
+ll
+ll */git*
+ll */GIT*
+cd dowNLOADS--SYMLINKED/
+cd reflog-pokus/
+git show
+git status
+git reflog 
+git reflog 
+git reflog 
+git log
+git reflog show 
+git reflog show FETCH_HEAD 
+git reflog show HEAD 
+git reflog show ORIG_HEAD 
+git reflog show main2 
+git reflog show origin/main
+git reflog show origin/main1
+git reflog show origin/main2
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+git log --merges 
+git log --all
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+git reflog show --all
+git reflog show --merges
+git log --all
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+mkdir github-pr-experim
+git clone https://github.com/Martin-Milan-org/hyperpolyglot.git
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cd git-pr-experim-mmorg-hyperpolyglot/
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+ll
+git branch --list  --all -vv
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep remote
+git remote add upstream https://github.com/clarkgrubb/hyperpolyglot.git
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep fetc
+git fetch upstream pull/<pull-request-id>/head:<local-branch-name>
+git fetch upstream pull/34/head:master-pr-34
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep fetc
+git fetch upstream pull/27/head:master-pr-27
+git fetch upstream pull/66/head:master-pr-66
+git push 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep f
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cd
+git clone https://github.com/code-rosettas/hyperpolyglot.git
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep fghfg
+cd hyperpolyglot/
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+git remote add upstream https://github.com/clarkgrubb/hyperpolyglot.git
+git fetch upstream pull/27/head:upstream-pull-request-27
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+git push -u origin master 
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+git fetch upstream pull/66/head:upstream-pull-request-66
+git push -u origin master 
+git fetch upstream pull/34/head:upstream-pull-request-34
+history -a
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cd hyperpolyglot/
+git mergetool --help
+git gui
+git merge --help
+git merge --dry-run
+gitq
+gitk
+code .
+git mergetool --gui 
+git merge --abort 
+git merge --help
+git merge -vvv upstream-pull-request-34 
+history -a
+#git merge --strategy=resolve -vvv 
+git merge --abort 
+git merge --strategy=resolve -vvv upstream-pull-request-34 
+git diff
+git diff
+git diff
+git merge --abort 
+history -a
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+git gui
+git merge --abort 
+history -a
+git rebase --help
+history -a
+git gui
+git gui
+history -a
+mv -iv hyperpolyglot fujhyperpolyglot
+git clone https://github.com/code-rosettas/hyperpolyglot.git
+du -m hyperpolyglot/
+git fetch upstream pull/34/head:upstream-pull-request-34
+git remote add upstream https://github.com/clarkgrubb/hyperpolyglot.git
+git fetch upstream pull/34/head:upstream-pull-request-34
+git branch --list  --all -vv
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep git
+git gui
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .

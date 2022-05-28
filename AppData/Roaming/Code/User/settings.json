@@ -19,7 +19,7 @@
     "files.eol": "\n",
     "files.trimTrailingWhitespace": true,
 
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 2,
     "files.autoSave": "afterDelay",
     "git.path": "C:/Program Files/Git/cmd/git.exe",
     "files.associations": {
@@ -28,7 +28,8 @@
         "*.opt2": "shellscript",
         ".zsh_history": "shellscript",
         "*.zsh_history": "shellscript",
-        "*.hist": "shellscript"
+        "*.hist": "shellscript",
+        ".sqlite_history": "sql"
     },
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -38,11 +39,29 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "editor.cursorBlinking": "solid",
-    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
     "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
         "C:\\WINDOWS\\System32\\wsl.exe (migrated)": {
             "path": "C:\\WINDOWS\\System32\\wsl.exe",
             "args": []
+        },
+        "Windows PowerShell": {
+            "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
         }
     },
     "javascript.suggest.completeFunctionCalls": true,
@@ -118,5 +137,23 @@
     "[jsonc]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "workbench.commandPalette.preserveInput": true,
     /////////"git.enableSmartCommit": true
+
+
+	// Controls the font family of the terminal, this defaults to `editor.fontFamily`'s value.
+	//"terminal.integrated.fontFamily": "'cascadia mono','cascadia code'",
+	"terminal.integrated.fontFamily": "consolas,'cascadia mono','cascadia code'",
+
+
+	"editor.fontFamily": "'segoe ui',calibri,'Lucida sans','Lucida sans unicode',Arial,'microsoft sans serif',Consolas, 'Courier New', monospace",
+    // db
+    // ## pgm --help -help -h -e -l -p -- :;.,$&O01lI"''`--
+    // Capital-i Illustr ss01
+    // omlouvám se za opožděné přání všeho nejlepšího k narozeninám ... (chtěl jsem to říct ten den, kdy jste u nás byli na návštěvě, ale večer už nějak nebyla příležitost)
+    // The significance of withdrawal symptoms Withdrawal symptoms are not inconsequential – they indicate the nervous system is becoming destabilized,24,56,57 accounting for the variety and variability of symptoms.27 According to established pharmacological principles, chronic application of any psychotropic brings about neurophysiological processes: adaption, tolerance, and potential dependence with withdrawal upon reduction of the
+
+
+
+
 }
