@@ -835,7 +835,7 @@ cp  --archive --backup=numbered  --one-file-system  --parents --strip-trailing-s
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
 cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=. --verbose `cygpath.exe -f utf8-LF-tc-clip-vsc.txt  `
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep --context 3 cp
-git add -vv -f utf8-LF-tc-clip-vsc.txt 
+git add -vv -f utf8-LF-tc-clip-vsc.txt
 git commit -vvv -a -m bku
 git push -u
 cd
@@ -873,16 +873,7 @@ set -x
 #run -it \
  # -p 8888:8888    \
   #--name JUP \
-docker                               --help   
-#  jupyter/minimal-notebook \
-# --NotebookApp.dlkgmdflgkdg=1111111111111   
-# -d  jupyter/base-notebook start-notebook.sh
-set -x
-#run -it \
- # -p 8888:8888    \
-  #--name JUP \
-#docker \
-cp                               --help   
+docker                               --help
 #  jupyter/minimal-notebook \
 # --NotebookApp.dlkgmdflgkdg=1111111111111
 # -d  jupyter/base-notebook start-notebook.sh
@@ -891,7 +882,16 @@ set -x
  # -p 8888:8888    \
   #--name JUP \
 #docker \
-cp                               --help   
+cp                               --help
+#  jupyter/minimal-notebook \
+# --NotebookApp.dlkgmdflgkdg=1111111111111
+# -d  jupyter/base-notebook start-notebook.sh
+set -x
+#run -it \
+ # -p 8888:8888    \
+  #--name JUP \
+#docker \
+cp                               --help
 #  jupyter/minimal-notebook \
 # --NotebookApp.dlkgmdflgkdg=1111111111111
 # -d  jupyter/base-notebook start-notebook.sh
@@ -902,7 +902,7 @@ set -x
  # -p 8888:8888    \
   #--name JUP \
 #docker \
-cp                               --help   
+cp                               --help
 #  jupyter/minimal-notebook \
 # --NotebookApp.dlkgmdflgkdg=1111111111111
 # -d  jupyter/base-notebook start-notebook.sh
@@ -919,7 +919,7 @@ history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.ba
 echo $PS1
 set
 set|less
-alias 
+alias
 git
 git status
 git info
@@ -961,12 +961,12 @@ help set
 bash -c help set
 bash -c "help set"
 bash -c help set
-bash -c help 
+bash -c help
 help
-bash -c help 
+bash -c help
 bash -c help set
 bash -c ps -ef
-bash -c ps 
+bash -c ps
 bash -c 'ps -ef'
 ps
 ps -ef
@@ -1060,13 +1060,13 @@ cd OneDrive/
 git push -u
 cd .config/
 touch.exe this-DIR-IS-TARGET-OF-mklink
-git add -vv -f this-DIR-IS-TARGET-OF-mklink 
+git add -vv -f this-DIR-IS-TARGET-OF-mklink
 cd ..
 cd scriptbox
 cd scriptbox-scripts--selected/
 ll
 touch.exe this-DIR-IS-TARGET-OF-mklink
-git add -vv -f this-DIR-IS-TARGET-OF-mklink 
+git add -vv -f this-DIR-IS-TARGET-OF-mklink
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
 git commit -vvv -a -m mklink
 git push -u
@@ -1089,7 +1089,7 @@ history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.ba
 recode-sr-latin.exe --h
 locale.exe --h
 iconv.exe --h
-locale.exe 
+locale.exe
 file 1
 file 2
 cat 1
@@ -1195,8 +1195,8 @@ du -ak OneDrive/tar-exe/
 ls -lR OneDrive/tar-exe/
 ls -lR OneDrive/tar-exe/
 ls -lR OneDrive/tar-exe/c/Users/marti/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine/
-ls -lR OneDrive/tar-exe/c/Users/marti/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine/Visual~1.txt 
-cat OneDrive/tar-exe/c/Users/marti/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine/Visual~1.txt 
+ls -lR OneDrive/tar-exe/c/Users/marti/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine/Visual~1.txt
+cat OneDrive/tar-exe/c/Users/marti/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine/Visual~1.txt
 file c15
 file 15
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |tail -n 30
@@ -1247,7 +1247,7 @@ git push -u
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
 cd OneDrive/a,complangs-215-hyperpoly/Hyperpolyglot-CSV
 ll
-git add -vv -f Hyperpolyglot-CSV\ -\ shell.csv 
+git add -vv -f Hyperpolyglot-CSV\ -\ shell.csv
 git ls-files
 ls -la
 git commit -vvv -a -m bkup
@@ -1256,7 +1256,7 @@ git pull -v -u  origin main
 git pull -v   origin main
 git commit -vvv -a -m bkup
 git push -u
-git add -vv -f Hyperpolyglot-CSV\ -\ scripting1\,2.csv 
+git add -vv -f Hyperpolyglot-CSV\ -\ scripting1\,2.csv
 git commit -vvv -a -m bkup
 git push -u
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
@@ -1267,7 +1267,7 @@ ls `cygpath '\\wsl$\' `
 ls //wsl$/U*
 ls //wsl$/Ubuntu-20.04
 ls `cygpath '\\wsl$\Ubuntu-20.04' `
-cygpath '\\wsl$\Ubuntu-20.04' 
+cygpath '\\wsl$\Ubuntu-20.04'
 mount
 ls //
 ls '//'
@@ -1285,12 +1285,12 @@ history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.ba
 cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
 ls -1 //wsl\$/Ubuntu-20.04/home/martin/.*hi*
 cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
-cygpath '//wsl$\Ubuntu-20.04' 
-cygpath '//wsl$/Ubuntu-20.04' 
+cygpath '//wsl$\Ubuntu-20.04'
+cygpath '//wsl$/Ubuntu-20.04'
 cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/tar-exe/ --update --verbose `cygpath.exe -f ~/OneDrive/tar-exe/utf8-LF-tc-clip-vsc.txt  ` -vv
 cd //wsl$/Ubuntu-20.04
 ls
-cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/tar-exe/ --update -vv home/martin/.bash_history 
+cp  --archive --backup=numbered    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/tar-exe/ --update -vv home/martin/.bash_history
 cd //wsl$/
 cd //wsl.local/Ubuntu-20.04
 cd //wsl.localhost/Ubuntu-20.04
@@ -1309,20 +1309,20 @@ cd dowNLOADS--SYMLINKED/
 cd reflog-pokus/
 git show
 git status
-git reflog 
-git reflog 
-git reflog 
+git reflog
+git reflog
+git reflog
 git log
-git reflog show 
-git reflog show FETCH_HEAD 
-git reflog show HEAD 
-git reflog show ORIG_HEAD 
-git reflog show main2 
+git reflog show
+git reflog show FETCH_HEAD
+git reflog show HEAD
+git reflog show ORIG_HEAD
+git reflog show main2
 git reflog show origin/main
 git reflog show origin/main1
 git reflog show origin/main2
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
-git log --merges 
+git log --merges
 git log --all
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
 git reflog show --all
@@ -1339,12 +1339,12 @@ git branch --list  --all -vv
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep remote
 git remote add upstream https://github.com/clarkgrubb/hyperpolyglot.git
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep fetc
-git fetch upstream pull/<pull-request-id>/head:<local-branch-name>
+#git fetch upstream pull/<pull-request-id>/head:<local-branch-name>
 git fetch upstream pull/34/head:master-pr-34
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep fetc
 git fetch upstream pull/27/head:master-pr-27
 git fetch upstream pull/66/head:master-pr-66
-git push 
+git push
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep f
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
 cd
@@ -1355,10 +1355,10 @@ history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.ba
 git remote add upstream https://github.com/clarkgrubb/hyperpolyglot.git
 git fetch upstream pull/27/head:upstream-pull-request-27
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
-git push -u origin master 
+git push -u origin master
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
 git fetch upstream pull/66/head:upstream-pull-request-66
-git push -u origin master 
+git push -u origin master
 git fetch upstream pull/34/head:upstream-pull-request-34
 history -a
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
@@ -1370,22 +1370,22 @@ git merge --dry-run
 gitq
 gitk
 code .
-git mergetool --gui 
-git merge --abort 
+git mergetool --gui
+git merge --abort
 git merge --help
-git merge -vvv upstream-pull-request-34 
+git merge -vvv upstream-pull-request-34
 history -a
-#git merge --strategy=resolve -vvv 
-git merge --abort 
-git merge --strategy=resolve -vvv upstream-pull-request-34 
+#git merge --strategy=resolve -vvv
+git merge --abort
+git merge --strategy=resolve -vvv upstream-pull-request-34
 git diff
 git diff
 git diff
-git merge --abort 
+git merge --abort
 history -a
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
 git gui
-git merge --abort 
+git merge --abort
 history -a
 git rebase --help
 history -a
@@ -1401,4 +1401,68 @@ git fetch upstream pull/34/head:upstream-pull-request-34
 git branch --list  --all -vv
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep git
 git gui
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+pwd
+git branch --list  --all -vv
+git commit -vvv -a -m bkup
+git push -u origin mylen-mar
+cd hyperpolyglot/
+cd
+git branch --list  --all -vv
+git gui
+git commit -vvv -a -m bkup
+cd hyperpolyglot/
+git remote add upstream https://github.com/clarkgrubb/hyperpolyglot.git
+git branch --list  --all -vv
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+git fetch upstream pull/34/head:upstream-pull-request-34
+git gui
+wsl
+which wsl
+cd
+cd OneDrive/
+git commit -vvv -a -m hyperpoly-make
+git push
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+git commit -vvv -a -m bk
+git commit -vvv -a -m bk
+git push
+cat ~/.bash_history   | sed -n '/hyper/,$p'  |sed   --regexp-extended                    's/^[^;]*[;]/\t\t/'    | tee ~/hyperpoly.history
+cp -iv ~/hyperpoly.zsh_history ~/acloudSUBDIR
+cat ~/.bash_history   | sed -n '/hyper/,$p'  |sed   --regexp-extended                    's/^[^;]*[;]/\t\t/'    | tee ~/hyperpoly.history
+cat ~/.bash_history   | sed -n '/hyper/,$p'  |sed   --regexp-extended                    's/^[^;]*[;]/\t\t/'    | tee ~/hyperpoly.history|wc
+cat ~/.bash_history   | sed -n '/hyperp/,$p'  |sed   --regexp-extended                    's/^[^;]*[;]/\t\t/'    | tee ~/hyperpoly.history|wc
+cat ~/.bash_history   | sed -n '/hyperp/,$p'  |sed   --regexp-extended                    's/^[^;]*[;]/\t\t/'    | tee ~/hyperpoly.history|less
+cat ~/.bash_history |nl  | sed -n '/hyperp/,$p'  |sed   --regexp-extended                    's/^[^;]*[;]/\t\t/'    | tee ~/hyperpoly.history|less
+cat ~/.bash_history |nl  | sed -n '/hyperpolyglot[.]/,$p'  |sed   --regexp-extended                    's/^[^;]*[;]/\t\t/'    | tee ~/hyperpoly.history|less
+cat ~/.bash_history |nl  | sed -n '/hyperpolyglot[.]/,$p'  | tee ~/hyperpoly.history|less
+cat ~/.bash_history |nl  | sed -n '/hyperpolyglot[.]/,$p'  | tee ~/hyperpoly.history|less
+cat ~/.bash_history   | sed -n '/hyperpolyglot[.]/,$p'  |sed   --regexp-extended                    's/^/\t\t/'   | tee ~/hyperpoly.history|less
+cp -iv ~/hyperpoly.history ~/acloudSUBDIR
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cat ~/.bash_history   | sed -n '/hyperpolyglot[.]/,$p'  |sed   --regexp-extended                    's/^/\t\t/'   | tee ~/hyperpoly.history|less
+cat ~/.bash_history   | sed -n '/hyperpolyglot[.]/,$p'  |sed   --regexp-extended                    's/^/\t\t/'   | tee ~/hyperpoly.history|less
+cp -iv ~/hyperpoly.history ~/acloudSUBDIR
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cat ~/.bash_history   | sed -n '/hyperpolyglot[.]/,$p'  |sed   --regexp-extended                    's/^/\t\t/'   | tee ~/hyperpoly.history|less
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cd OneDrive/
+git add -vv -f wsl-dotfiles/hyperpoly.zsh_history 
+git add -vv -f ps-mylen-mar/hyperpoly.history 
+git commit -vvv -a -m bk
+git push
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+git commit -vvv -a -m edit-hist
+git push
+git commit -vvv -a -m edit-hyperpoly.hist
+git push
+history -a
+echo '======= part 225s4 ======='
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+cat ~/.bash_history   | sed -n '/hyperpolyglot[.]/,$p'  |sed   --regexp-extended                    's/^/\t\t/# '   | tee ~/1.history|less
+cat ~/.bash_history   | sed -n '/hyperpolyglot[.]/,$p'  |sed   --regexp-extended                    's/^/\t\t/# '   | tee ~/1.history|less
+cat ~/.bash_history   | sed -n '/hyperpolyglot[.]/,$p'  |sed   --regexp-extended                    's/^/\t\t# /'   | tee ~/1.history|less
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+echo '======= part 225s5 ======='
+cat ~/.bash_history   | sed -n '/hyperpolyglot[.]/,$p'  |sed   --regexp-extended                    's/^/\t\t# /'   | tee ~/1.history|less
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .

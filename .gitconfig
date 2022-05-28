@@ -9,3 +9,8 @@
 
 [core]
 	autocrlf = input
+[merge]
+	verbosity = 4
+[gui]
+	encoding = utf-8
+	fontdiff = -family \"Segoe UI\" -size 10 -weight normal -slant roman -underline 0 -overstrike 0

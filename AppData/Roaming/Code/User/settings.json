@@ -13,6 +13,17 @@
 	//  - nothing: Do nothing and pass event to terminal.
 
 
+    "workbench.colorCustomizations": {
+        "editorError.foreground":   "#ff000018", // "#ff000088",
+        "editorWarning.foreground": "#ffe600f8",
+        "editorInfo.foreground":    "#00ff00f8"
+    },
+
+
+	// Insert spaces when pressing `Tab`. This setting is overridden based on the file contents when `editor.detectIndentation` is on.
+	"editor.insertSpaces": false,   // true,
+
+
     //warning: CRLF will be replaced by LF in AppData/Roaming/Code/User/settings.json.
     // uz jsem to pridal do git
 
@@ -28,7 +39,7 @@
         "*.opt2": "shellscript",
         ".zsh_history": "shellscript",
         "*.zsh_history": "shellscript",
-        "*.hist": "shellscript",
+        "*.hist*": "shellscript",
         ".sqlite_history": "sql"
     },
     "[json]": {
@@ -146,7 +157,8 @@
 	"terminal.integrated.fontFamily": "consolas,'cascadia mono','cascadia code'",
 
 
-	"editor.fontFamily": "'segoe ui',calibri,'Lucida sans','Lucida sans unicode',Arial,'microsoft sans serif',Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "'segoe ui',calibri,'Lucida sans','Lucida sans unicode',Arial,'microsoft sans serif',Consolas, 'Courier New', monospace",
+    "diffEditor.ignoreTrimWhitespace": false,
     // db
     // ## pgm --help -help -h -e -l -p -- :;.,$&O01lI"''`--
     // Capital-i Illustr ss01
