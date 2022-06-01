@@ -1466,3 +1466,20 @@ history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.ba
 echo '======= part 225s5 ======='
 cat ~/.bash_history   | sed -n '/hyperpolyglot[.]/,$p'  |sed   --regexp-extended                    's/^/\t\t# /'   | tee ~/1.history|less
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+git commit -vvv -a -m bk
+git push
+cd
+cd hyperpolyglot/
+cd wikidot-to-html/
+git gui
+cd -
+git gui
+git gui
+git ls-files
+git ls-files
+git gui
+cd
+git commit -vvv -a -m git-gui-config
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+wsl
+cmd
