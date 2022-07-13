@@ -2,3 +2,10 @@ chcp
 chcp 437
 chcp
 exit
+dir
+dir ..
+dir ../..
+dir ..\..
+sifjskfd
+pwsh
+bash

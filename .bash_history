@@ -1447,8 +1447,8 @@ history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.ba
 cat ~/.bash_history   | sed -n '/hyperpolyglot[.]/,$p'  |sed   --regexp-extended                    's/^/\t\t/'   | tee ~/hyperpoly.history|less
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
 cd OneDrive/
-git add -vv -f wsl-dotfiles/hyperpoly.zsh_history 
-git add -vv -f ps-mylen-mar/hyperpoly.history 
+git add -vv -f wsl-dotfiles/hyperpoly.zsh_history
+git add -vv -f ps-mylen-mar/hyperpoly.history
 git commit -vvv -a -m bk
 git push
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
@@ -1483,3 +1483,29 @@ git commit -vvv -a -m git-gui-config
 history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
 wsl
 cmd
+cd OneDrive/
+cd ps-mylen-mar
+git add -vv -f mymycron.ps1 mymyrsync.ps1
+cd -
+cd git-bash-dotfiles
+git add -vv -f mymycron.sh mymyrsync.sh
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+ls
+git commit -vvv -a -m bkup-scripts
+git ls-files
+ll .git
+cd ..
+git ls-files
+cd ps-mylen-mar
+git ls-files
+git push
+history -a
+cd OneDrive/
+git add -vv -f AAAAps-jilen/ConsoleHost_history.txt
+git add -vv -f AAAAps-jilen/icacls2.txt
+git commit -vvv -a -m ps-jilen-icacls
+history -a
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+git commit -vvv -a -m icacls-deny
+history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+echo '=================---------------bash_eternal_history'

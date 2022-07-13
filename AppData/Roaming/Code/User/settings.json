@@ -40,7 +40,8 @@
         ".zsh_history": "shellscript",
         "*.zsh_history": "shellscript",
         "*.hist*": "shellscript",
-        ".sqlite_history": "sql"
+        ".sqlite_history": "sql",
+        "*.opt0": "shellscript"
     },
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -50,7 +51,7 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "editor.cursorBlinking": "solid",
-    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
     "terminal.integrated.profiles.windows": {
         "PowerShell": {
             "source": "PowerShell",
@@ -159,6 +160,9 @@
 
     "editor.fontFamily": "'segoe ui',calibri,'Lucida sans','Lucida sans unicode',Arial,'microsoft sans serif',Consolas, 'Courier New', monospace",
     "diffEditor.ignoreTrimWhitespace": false,
+    "terminal.integrated.automationProfile.osx": {
+
+    },
     // db
     // ## pgm --help -help -h -e -l -p -- :;.,$&O01lI"''`--
     // Capital-i Illustr ss01

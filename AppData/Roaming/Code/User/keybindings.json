@@ -12,6 +12,13 @@
     },
 
 
+
+    { "key": "f7",
+      "command":  "cursorPageDownSelect",   //"cursorBottomSelect",
+      "when": "textInputFocus" },
+
+
+
     //{ "key": "y",           "command": "type", "args": { "text": "z" }, "when": "editorTextFocus" },
     // EDIT bugfix: the part "when": "editorTextFocus" is really needed, otherwise awful behavior in ctrl-f
     // ano "when": "editorTextFocus " jinak pokazi sor pri zadavani  hledani po ^f ... a v teminalu stejne doesn't work !!
@@ -25,7 +32,7 @@
     ////{ "key": ";",           "command": "type", "args": { "text": ":" }, "when": "editorTextFocus" },
 
 
-    
+
     // powertoys 219.4
     //{ "key": "\\",           "command": "type", "args": { "text": "\"" }, "when": "editorTextFocus" },
 
