@@ -23,7 +23,16 @@
 	// Insert spaces when pressing `Tab`. This setting is overridden based on the file contents when `editor.detectIndentation` is on.
 	"editor.insertSpaces": false,   // true,
 
+    "[python]": {
 
+        "editor.detectIndentation": false,
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+
+    },
+
+
+    
     //warning: CRLF will be replaced by LF in AppData/Roaming/Code/User/settings.json.
     // uz jsem to pridal do git
 
@@ -43,6 +52,8 @@
         ".sqlite_history": "sql",
         "*.opt0": "shellscript"
     },
+
+
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
@@ -163,6 +174,7 @@
     "terminal.integrated.automationProfile.osx": {
 
     },
+    "tabnine.experimentalAutoImports": true,
     // db
     // ## pgm --help -help -h -e -l -p -- :;.,$&O01lI"''`--
     // Capital-i Illustr ss01
