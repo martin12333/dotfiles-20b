@@ -1,5 +1,7 @@
 {
 
+    // f1 default settings
+
     // nejdriv nejvic nebezpecne
 
     //"terminal.integrated.rightClickBehavior": "default",
@@ -32,7 +34,7 @@
     },
 
 
-    
+
     //warning: CRLF will be replaced by LF in AppData/Roaming/Code/User/settings.json.
     // uz jsem to pridal do git
 
@@ -175,6 +177,9 @@
 
     },
     "tabnine.experimentalAutoImports": true,
+    "python.condaPath": "D:\\conda\\Library\\bin\\conda.bat",
+    "python.defaultInterpreterPath": "D:\\conda\\python.exe",
+    "python.languageServer": "Pylance",
     // db
     // ## pgm --help -help -h -e -l -p -- :;.,$&O01lI"''`--
     // Capital-i Illustr ss01
