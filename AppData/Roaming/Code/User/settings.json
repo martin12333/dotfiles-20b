@@ -4,6 +4,9 @@
 
     // nejdriv nejvic nebezpecne
 
+    "extensions.autoUpdate": false,
+    "extensions.autoCheckUpdates": false,
+
     //"terminal.integrated.rightClickBehavior": "default",
     "terminal.integrated.rightClickBehavior": "selectWord",
     // 224
@@ -40,8 +43,6 @@
 
     "files.eol": "\n",
     "files.trimTrailingWhitespace": true,
-
-    "window.zoomLevel": 2,
     "files.autoSave": "afterDelay",
     "git.path": "C:/Program Files/Git/cmd/git.exe",
     "files.associations": {
@@ -173,13 +174,19 @@
 
     "editor.fontFamily": "'segoe ui',calibri,'Lucida sans','Lucida sans unicode',Arial,'microsoft sans serif',Consolas, 'Courier New', monospace",
     "diffEditor.ignoreTrimWhitespace": false,
-    "terminal.integrated.automationProfile.osx": {
 
-    },
+    //"terminal.integrated.automationProfile.osx": {    },
+
     "tabnine.experimentalAutoImports": true,
     "python.condaPath": "D:\\conda\\Library\\bin\\conda.bat",
     "python.defaultInterpreterPath": "D:\\conda\\python.exe",
     "python.languageServer": "Pylance",
+    "window.zoomLevel": 1,
+
+
+    "powershell.integratedConsole.showOnStartup": false,
+    
+
     // db
     // ## pgm --help -help -h -e -l -p -- :;.,$&O01lI"''`--
     // Capital-i Illustr ss01
@@ -187,6 +194,8 @@
     // The significance of withdrawal symptoms Withdrawal symptoms are not inconsequential – they indicate the nervous system is becoming destabilized,24,56,57 accounting for the variety and variability of symptoms.27 According to established pharmacological principles, chronic application of any psychotropic brings about neurophysiological processes: adaption, tolerance, and potential dependence with withdrawal upon reduction of the
 
 
+    // unknown configuration setting: languages
 
+    // onedr
 
 }
