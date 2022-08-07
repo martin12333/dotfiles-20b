@@ -18,6 +18,8 @@ guiApplications=false
 
 # Limits VM memory to use no more than 4 GB, this can be set as whole numbers using GB or MB
 #memory=4GB
+memory=2500MB
+
 
 # Sets the VM to use two virtual processors
 ##processors=2
@@ -30,6 +32,7 @@ guiApplications=false
 
 # Sets amount of swap storage space to 8GB, default is 25% of available RAM
 #swap=8GB
+swap=2048MB
 
 # Sets swapfile path location, default is %USERPROFILE%\AppData\Local\Temp\swap.vhdx
 ##swapfile=C:\\temp\\wsl-swap.vhdx
@@ -45,4 +48,4 @@ guiApplications=false
 
 # Turns on output console showing contents of dmesg when opening a WSL 2 distro for debugging
 debugConsole=true
-
+# !! shows docker
