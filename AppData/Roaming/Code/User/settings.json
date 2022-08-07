@@ -53,7 +53,8 @@
         "*.zsh_history": "shellscript",
         "*.hist*": "shellscript",
         ".sqlite_history": "sql",
-        "*.opt0": "shellscript"
+        "*.opt0": "shellscript",
+        ".wslconfig": "properties"
     },
 
 
@@ -185,7 +186,7 @@
 
 
     "powershell.integratedConsole.showOnStartup": false,
-    
+
 
     // db
     // ## pgm --help -help -h -e -l -p -- :;.,$&O01lI"''`--
