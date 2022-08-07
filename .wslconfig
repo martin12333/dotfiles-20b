@@ -1,10 +1,17 @@
-
 ## quote: thomas h block: mayday: ~ ~ He remembered a phrase from a flight manual: toggle important switches one at a time
-
+# wsl --list --all --verbose
+# wsl --shutdown
 # https://docs.microsoft.com/en-us/windows/wsl/wsl-config#example-wslconfig-file
 
 # Settings apply across all Linux distros running on WSL 2
 [wsl2]
+
+## most important first
+
+guiApplications=false
+
+
+#nestedVirtualization
 
 
 
