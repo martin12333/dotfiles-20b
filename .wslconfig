@@ -3,18 +3,21 @@
 # wsl --shutdown
 # https://docs.microsoft.com/en-us/windows/wsl/wsl-config#example-wslconfig-file
 
+
 # Settings apply across all Linux distros running on WSL 2
 [wsl2]
 
 ## most important first
 
+
+
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 guiApplications=false
 
 
-#nestedVirtualization
 
 
-
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 # Limits VM memory to use no more than 4 GB, this can be set as whole numbers using GB or MB
 #memory=4GB
@@ -49,3 +52,6 @@ swap=2048MB
 # Turns on output console showing contents of dmesg when opening a WSL 2 distro for debugging
 debugConsole=true
 # !! shows docker
+
+
+#nestedVirtualization
